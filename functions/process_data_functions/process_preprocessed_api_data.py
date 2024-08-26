@@ -62,6 +62,9 @@ def process_preprocessed_api_data(preprocessed_data):
     # Этот словарь вернет данная ф-ция
     res = dict()
 
+    res["images"] = preprocessed_data["images"]
+
+    res["spu_id"] = data["spuId"]
     res["is_collab"] = False
     res["collab_names"] = list()
     res["brands"] = list()
@@ -84,7 +87,7 @@ def process_preprocessed_api_data(preprocessed_data):
     # region Find lines
     lines = list()
 
-    for line in _.get(titling_copy[brand_id], "lines", list()):
+    for line in _.get(titling_copy, f"{brand_id}.lines", list()):
         for line_name in line["line_names"]:
             if line_name.lower() in title.lower() and none_in_string(title.lower(), _.get(line, "line_skip_names", [])):
                 lines.append(line)

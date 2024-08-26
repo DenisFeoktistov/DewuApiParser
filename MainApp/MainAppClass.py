@@ -15,18 +15,14 @@ class MainApp:
         return result
 
     def get_new_products_spus(self):
-        if not self.get_new_products_spus_process:
-            result_queue = multiprocessing.Queue()
+        try:
+            if self.get_new_products_spus_process:
+                self.get_new_products_spus_process.terminate()
+                self.get_new_products_spus_process.close()
 
-            self.get_new_products_spus_process = multiprocessing.Process(target=start_get_new_products_process, args=(result_queue,))
-
+            self.get_new_products_spus_process = multiprocessing.Process(target=start_get_new_products_process)
             self.get_new_products_spus_process.start()
-            self.get_new_products_spus_process.join()
+        except:
+            pass
 
-            result = result_queue.get()
-
-            self.get_new_products_spus_process = None
-
-            return result
-
-        return "New products process already in use"
+        return "OK"

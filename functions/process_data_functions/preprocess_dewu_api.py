@@ -10,11 +10,16 @@ def preprocess_dewu_api(unprocessed_data):
 
     images = _.get(data, 'data.image.spuImage.images', list())
 
-    d["images"] = list()
+    d["images_full"] = list()
     for image in images:
         if "desc" in image:
             del image["desc"]
-        d["images"].append(image)
+        d["images_full"].append(image)
+
+    d["images"] = list()
+
+    for image_dict in d["images_full"]:
+        d["images"].append(image_dict["url"])
 
     d["poizonSpuGroupList"] = _.get(data, 'data.spuGroupList.list', list())
 

@@ -274,6 +274,25 @@
       {
         "path": [
           "adidas",
+          "adidas Hamburg"
+        ],
+        "line_names": [
+          " hamburg "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Spezial"
+        ],
+        "line_names": [
+          " spezial ",
+          " spzl "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Samba"
         ],
         "line_names": [
@@ -340,6 +359,15 @@
       {
         "path": [
           "adidas",
+          "adidas SL"
+        ],
+        "line_names": [
+          " sl "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Forum"
         ],
         "line_names": [
@@ -349,10 +377,55 @@
       {
         "path": [
           "adidas",
+          "adidas Rivalry"
+        ],
+        "line_names": [
+          " rivalry "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Campus"
         ],
         "line_names": [
           " campus "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ozelia"
+        ],
+        "line_names": [
+          " ozelia "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Deerupt"
+        ],
+        "line_names": [
+          " deerupt "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas adimatic"
+        ],
+        "line_names": [
+          " adimatic "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Falcon"
+        ],
+        "line_names": [
+          " falcon "
         ]
       },
       {
@@ -380,6 +453,15 @@
       {
         "path": [
           "adidas",
+          "adidas Continental"
+        ],
+        "line_names": [
+          " continental "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas ZX"
         ],
         "line_names": [
@@ -389,10 +471,28 @@
       {
         "path": [
           "adidas",
+          "adidas Tubular"
+        ],
+        "line_names": [
+          " tubular "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Ozweego"
         ],
         "line_names": [
           "ozweego"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Nite Jogger"
+        ],
+        "line_names": [
+          " nite jogger "
         ]
       },
       {
@@ -812,6 +912,25 @@
       {
         "path": [
           "adidas",
+          "adidas Hamburg"
+        ],
+        "line_names": [
+          " hamburg "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Spezial"
+        ],
+        "line_names": [
+          " spezial ",
+          " spzl "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Samba"
         ],
         "line_names": [
@@ -878,6 +997,15 @@
       {
         "path": [
           "adidas",
+          "adidas SL"
+        ],
+        "line_names": [
+          " sl "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Forum"
         ],
         "line_names": [
@@ -887,10 +1015,55 @@
       {
         "path": [
           "adidas",
+          "adidas Rivalry"
+        ],
+        "line_names": [
+          " rivalry "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Campus"
         ],
         "line_names": [
           " campus "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ozelia"
+        ],
+        "line_names": [
+          " ozelia "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Deerupt"
+        ],
+        "line_names": [
+          " deerupt "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas adimatic"
+        ],
+        "line_names": [
+          " adimatic "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Falcon"
+        ],
+        "line_names": [
+          " falcon "
         ]
       },
       {
@@ -918,10 +1091,10 @@
       {
         "path": [
           "adidas",
-          "adidas Ozweego"
+          "adidas Continental"
         ],
         "line_names": [
-          "ozweego"
+          " continental "
         ]
       },
       {
@@ -931,6 +1104,33 @@
         ],
         "line_names": [
           " zx "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Tubular"
+        ],
+        "line_names": [
+          " tubular "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Ozweego"
+        ],
+        "line_names": [
+          "ozweego"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Nite Jogger"
+        ],
+        "line_names": [
+          " nite jogger "
         ]
       },
       {
@@ -1349,6 +1549,25 @@
       {
         "path": [
           "adidas",
+          "adidas Hamburg"
+        ],
+        "line_names": [
+          " hamburg "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Spezial"
+        ],
+        "line_names": [
+          " spezial ",
+          " spzl "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Samba"
         ],
         "line_names": [
@@ -1415,10 +1634,28 @@
       {
         "path": [
           "adidas",
+          "adidas SL"
+        ],
+        "line_names": [
+          " sl "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Forum"
         ],
         "line_names": [
           " forum "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Rivalry"
+        ],
+        "line_names": [
+          " rivalry "
         ]
       },
       {
@@ -1433,10 +1670,37 @@
       {
         "path": [
           "adidas",
-          "adidas ZX"
+          "adidas Ozelia"
         ],
         "line_names": [
-          " zx "
+          " ozelia "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Deerupt"
+        ],
+        "line_names": [
+          " deerupt "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas adimatic"
+        ],
+        "line_names": [
+          " adimatic "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Falcon"
+        ],
+        "line_names": [
+          " falcon "
         ]
       },
       {
@@ -1464,10 +1728,46 @@
       {
         "path": [
           "adidas",
+          "adidas Continental"
+        ],
+        "line_names": [
+          " continental "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas ZX"
+        ],
+        "line_names": [
+          " zx "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Tubular"
+        ],
+        "line_names": [
+          " tubular "
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Ozweego"
         ],
         "line_names": [
           "ozweego"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Nite Jogger"
+        ],
+        "line_names": [
+          " nite jogger "
         ]
       },
       {
@@ -1778,11 +2078,6 @@
       }
     },
     "many_collaborations": false
-  },
-  "1009798": {
-    "brand_names": [
-      "Alaia"
-    ]
   },
   "10011": {
     "brand_names": [
@@ -3602,19 +3897,19 @@
       {
         "path": [
           "Jordan",
-          "Jordan Tatum"
+          "Jordan Legacy"
         ],
         "line_names": [
-          "tatum"
+          "legacy"
         ]
       },
       {
         "path": [
           "Jordan",
-          "Jordan Legacy"
+          "Jordan Courtside"
         ],
         "line_names": [
-          "legacy"
+          "courtside"
         ]
       },
       {
@@ -3632,16 +3927,7 @@
       {
         "path": [
           "Jordan",
-          "Jordan Zion"
-        ],
-        "line_names": [
-          "Jordan Zion"
-        ]
-      },
-      {
-        "path": [
-          "Jordan",
-          "Jordan Luka"
+          "Jordan Air Ship"
         ],
         "line_names": [
           "Luka"
@@ -3735,6 +4021,399 @@
         ],
         "line_name_no_crop": [
           "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 16"
+        ],
+        "line_names": [
+          "Air Jordan 16 ",
+          "air jordan retro 16 ",
+          "jordan 16 ",
+          "jordan retro 16 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 17"
+        ],
+        "line_names": [
+          "Air Jordan 17 ",
+          "air jordan retro 17 ",
+          "jordan 17 ",
+          "jordan retro 17 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 18"
+        ],
+        "line_names": [
+          "Air Jordan 18 ",
+          "air jordan retro 18 ",
+          "jordan 18 ",
+          "jordan retro 18 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 19"
+        ],
+        "line_names": [
+          "Air Jordan 19 ",
+          "air jordan retro 19 ",
+          "jordan 19 ",
+          "jordan retro 19 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 20"
+        ],
+        "line_names": [
+          "Air Jordan 20 ",
+          "air jordan retro 20 ",
+          "jordan 20 ",
+          "jordan retro 20 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 21"
+        ],
+        "line_names": [
+          "Air Jordan 21 ",
+          "air jordan retro 21 ",
+          "jordan 21 ",
+          "jordan retro 21 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 22"
+        ],
+        "line_names": [
+          "Air Jordan 22 ",
+          "air jordan retro 22 ",
+          "jordan 22 ",
+          "jordan retro 22 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 23"
+        ],
+        "line_names": [
+          "Air Jordan 23 ",
+          "air jordan retro 23 ",
+          "jordan 23 ",
+          "jordan retro 23 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 24"
+        ],
+        "line_names": [
+          "Air Jordan 24 ",
+          "air jordan retro 24 ",
+          "jordan 24 ",
+          " aj24 ",
+          "jordan retro 24 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 25"
+        ],
+        "line_names": [
+          "Air Jordan 25 ",
+          "Air Jordan 2010 ",
+          "air jordan retro 25 ",
+          "jordan 25 ",
+          "jordan retro 25 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 26"
+        ],
+        "line_names": [
+          "Air Jordan 26 ",
+          " aj26 ",
+          "Air Jordan 2011 ",
+          "air jordan retro 26 ",
+          "jordan 26 ",
+          "jordan retro 26 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 27"
+        ],
+        "line_names": [
+          "Air Jordan 27 ",
+          " aj27 ",
+          "Air Jordan 2012 ",
+          "air jordan retro 27 ",
+          "jordan 27 ",
+          "jordan retro 27 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 28"
+        ],
+        "line_names": [
+          "Air Jordan 28 ",
+          "air jordan retro 28 ",
+          "jordan 28 ",
+          "jordan retro 28 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 29"
+        ],
+        "line_names": [
+          "Air Jordan 29 ",
+          "air jordan retro 29 ",
+          "jordan 29 ",
+          "jordan retro 29 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 30"
+        ],
+        "line_names": [
+          "Air Jordan 30 ",
+          "air jordan retro 30 ",
+          "jordan 30 ",
+          "jordan retro 30 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 31"
+        ],
+        "line_names": [
+          "Air Jordan 31 ",
+          "air jordan retro 31 ",
+          "jordan 31 ",
+          "jordan retro 31 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 32"
+        ],
+        "line_names": [
+          "Air Jordan 32 ",
+          "air jordan retro 32 ",
+          "jordan 32 ",
+          "jordan retro 32 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 33"
+        ],
+        "line_names": [
+          "Air Jordan 33 ",
+          "air jordan retro 33 ",
+          "jordan 33 ",
+          "jordan retro 33 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 34"
+        ],
+        "line_names": [
+          "Air Jordan 34 ",
+          "air jordan retro 34 ",
+          "jordan 34 ",
+          "jordan retro 34 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 35"
+        ],
+        "line_names": [
+          "Air Jordan 35 ",
+          "air jordan retro 35 ",
+          "jordan 35 ",
+          "jordan retro 35 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 36"
+        ],
+        "line_names": [
+          "Air Jordan 36 ",
+          "air jordan retro 36 ",
+          "jordan 36 ",
+          "jordan retro 36 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 37"
+        ],
+        "line_names": [
+          "Air Jordan 37 ",
+          "air jordan retro 37 ",
+          "jordan 37 ",
+          "jordan retro 37 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 38"
+        ],
+        "line_names": [
+          "Air Jordan 38 ",
+          "air jordan retro 38 ",
+          "jordan 38 ",
+          "jordan retro 38 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Air Jordan 39"
+        ],
+        "line_names": [
+          "Air Jordan 39 ",
+          "air jordan retro 39 ",
+          "jordan 39 ",
+          "jordan retro 39 "
+        ],
+        "line_name_no_crop": [
+          "retro"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Tatum"
+        ],
+        "line_names": [
+          "tatum"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Zion"
+        ],
+        "line_names": [
+          "Jordan Zion"
+        ]
+      },
+      {
+        "path": [
+          "Jordan",
+          "Jordan Luka"
+        ],
+        "line_names": [
+          "Luka"
         ]
       },
       {
@@ -5051,6 +5730,26 @@
         "path": [
           "Nike",
           "Nike Air Max",
+          "Nike Air Max Plus"
+        ],
+        "line_names": [
+          "air max plus "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
+          "Nike Air Max Fusion"
+        ],
+        "line_names": [
+          "air max fusion "
+        ]
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Max",
           "Nike Air Max 270"
         ],
         "line_names": [
@@ -5157,6 +5856,15 @@
       {
         "path": [
           "Nike",
+          "Nike Hyperdunk"
+        ],
+        "line_names": [
+          "hyperdunk"
+        ]
+      },
+      {
+        "path": [
+          "Nike",
           "Nike Dunk",
           "Nike Dunk Low"
         ],
@@ -5240,6 +5948,26 @@
         ],
         "line_names": [
           "dunk"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike V2K Run"
+        ],
+        "line_names": [
+          "v2k run"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike M2K"
+        ],
+        "line_names": [
+          "m2k"
         ],
         "line_skip_names": []
       },
@@ -5437,6 +6165,76 @@
           "air uptempo",
           "more uptempo",
           "uptempo"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Court Vision"
+        ],
+        "line_names": [
+          "court vision"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Court Borough"
+        ],
+        "line_names": [
+          "court borough"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Monarch"
+        ],
+        "line_names": [
+          "air monarch"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Flight"
+        ],
+        "line_names": [
+          "flight"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Waffle"
+        ],
+        "line_names": [
+          "waffle"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Zoom G.T."
+        ],
+        "line_names": [
+          "air zoom g.t."
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
+          "Nike Air Zoom Vomero"
+        ],
+        "line_names": [
+          "air zoom vomero"
         ],
         "line_skip_names": []
       },
@@ -6846,6 +7644,137 @@
     },
     "many_collaborations": false
   },
+  "10252": {
+    "brand_names": [
+      "Gentle monster"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1005353": {
+    "brand_names": [
+      "Amina muaddi"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "10040": {
+    "brand_names": [
+      "Iwc"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "4989": {
+    "brand_names": [
+      "Breitling"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1018811": {
+    "brand_names": [
+      "Cortiez"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1013102": {
+    "brand_names": [
+      "Patrizia pepe"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1013945": {
+    "brand_names": [
+      "Strathberry"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1005394": {
+    "brand_names": [
+      "Mansur gavriel"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1013928": {
+    "brand_names": [
+      "Chylak"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1000179": {
+    "brand_names": [
+      "Thisisneverthat"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1010867": {
+    "brand_names": [
+      "Muva"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "1006890": {
+    "brand_names": [
+      "Denim tears"
+    ],
+    "collaborations": {
+    },
+    "many_collaborations": false
+  },
+  "10172": {
+    "brand_names": [
+      "The North Face Purple Label",
+      "北面The North Face",
+      "北面/The North Face",
+      "TNF"
+    ],
+    "collaborations": {
+      "Supreme x The North Face": {
+        "collab_brand_ids": [
+          "439"
+        ],
+        "collab_brand_names": [
+          "supreme"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [
+          "SUP-FW19-902",
+          "SUP-FW19-901",
+          "SUP-FW18-1020",
+          "SUP-FW18-1021",
+          "SUP-FW18-1022",
+          "SUP-FW18-1023",
+          "SUP-FW18-1024",
+          "SUP-SS20-427",
+          "SUP-SS20-423",
+          "SUP-SS20-426",
+          "SUP-SS20-425",
+          "SUP-SS20-424"
+        ],
+        "collab_skip_names": []
+      }
+    },
+    "many_collaborations": false
+  },
   "1001825": {
     "brand_names": [
       "The Row"
@@ -7678,6 +8607,97 @@
   "1003373": {
     "brand_names": [
       "Ermanno Scervino"
+    ]
+  },
+  "1021244": {
+    "brand_names": [
+      "Drole de Monsieur"
+    ]
+  },
+  "1004461": {
+    "brand_names": [
+      "Mastermind Japan"
+    ]
+  },
+  "1006208": {
+    "brand_names": [
+      "Visvim"
+    ]
+  },
+  "1009798": {
+    "brand_names": [
+      "Alaïa",
+      "Alaia"
+    ]
+  },
+  "1001927": {
+    "brand_names": [
+      "Dunhill"
+    ]
+  },
+  "1015619": {
+    "brand_names": [
+      "Helly Hansen"
+    ]
+  },
+  "1000399": {
+    "brand_names": [
+      "Readymade"
+    ]
+  },
+  "1007641": {
+    "brand_names": [
+      "WOOYOUNGMI"
+    ]
+  },
+  "1007818": {
+    "brand_names": [
+      "Autry"
+    ]
+  },
+  "1006833": {
+    "brand_names": [
+      "Grailz"
+    ]
+  },
+  "1013572": {
+    "brand_names": [
+      "Sssaint Louis"
+    ]
+  },
+  "1026764": {
+    "brand_names": [
+      "Juice Wrld"
+    ]
+  },
+  "1002247": {
+    "brand_names": [
+      "Just Vibe"
+    ]
+  },
+  "1001067": {
+    "brand_names": [
+      "YADcrew"
+    ]
+  },
+  "1012434": {
+    "brand_names": [
+      "Coldstone"
+    ]
+  },
+  "1012390": {
+    "brand_names": [
+      "Made Extreme"
+    ]
+  },
+  "1036128": {
+    "brand_names": [
+      "FDR"
+    ]
+  },
+  "1001713": {
+    "brand_names": [
+      "Grotto"
     ]
   }
 }
