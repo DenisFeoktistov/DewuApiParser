@@ -390,6 +390,18 @@ def hkCorrect(hkProductInfo, poizonApiProductInfo, apiPreprocessedData):
             hkProductInfo["minPrice"] = poizonApiProductInfo["minPrice"]
             hkProductInfo["hasConfigurationsWithDifferentImages"] = poizonApiProductInfo[
                 "hasConfigurationsWithDifferentImages"]
+            hkProductInfo["platformsInfo"] = {
+                "poizonNotFullApi": {
+                    "preprocessedData": {
+                        "apiData": apiPreprocessedData,
+                        "hkData": {}
+                    },
+                    "processedData": {
+                        "apiData": poizonApiProductInfo,
+                        "hkData": {}
+                    }
+                }
+            }
             return hkProductInfo
         if categoryEng == "clothes":
             # Вначале переписываем все те же юниты из ГК, а затем дополняем полную размерную сетку одежды
