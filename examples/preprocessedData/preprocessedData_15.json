@@ -1,0 +1,304 @@
+{
+    "images_full": [],
+    "images": [],
+    "arSkuIdRelation": [
+        {
+            "spuId": 2795,
+            "skuId": 16764542,
+            "propertyValueId": 36515
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764544,
+            "propertyValueId": 743593
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764557,
+            "propertyValueId": 743594
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764560,
+            "propertyValueId": 36518
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764561,
+            "propertyValueId": 743595
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764565,
+            "propertyValueId": 743596
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764589,
+            "propertyValueId": 36521
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764592,
+            "propertyValueId": 743597
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764607,
+            "propertyValueId": 743598
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764612,
+            "propertyValueId": 36524
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764613,
+            "propertyValueId": 743599
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764618,
+            "propertyValueId": 743600
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764626,
+            "propertyValueId": 36527
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764627,
+            "propertyValueId": 743601
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764631,
+            "propertyValueId": 743602
+        },
+        {
+            "spuId": 2795,
+            "skuId": 16764641,
+            "propertyValueId": 36514
+        }
+    ],
+    "gif": "",
+    "poizonSpuGroupList": [],
+    "spuId": 2795,
+    "brandId": 3,
+    "relatedBrands": [],
+    "allBrands": [
+        3
+    ],
+    "title": "adidas Gazelle II Kansas Jayhawks",
+    "categoryId": 38,
+    "categoryName": "板鞋1",
+    "level1CategoryId": 29,
+    "level2CategoryId": 35,
+    "manufacturer_sku": "464964",
+    "manufacturer_skus": [],
+    "releaseDate": "",
+    "retailPrice": 2795,
+    "fitId": 1,
+    "goodsType": 0,
+    "subTitle": "",
+    "description": "",
+    "skus": [
+        {
+            "skuId": 16764542,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 36515
+                }
+            ]
+        },
+        {
+            "skuId": 16764544,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743593
+                }
+            ]
+        },
+        {
+            "skuId": 16764557,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743594
+                }
+            ]
+        },
+        {
+            "skuId": 16764560,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 36518
+                }
+            ]
+        },
+        {
+            "skuId": 16764561,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743595
+                }
+            ]
+        },
+        {
+            "skuId": 16764565,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743596
+                }
+            ]
+        },
+        {
+            "skuId": 16764589,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 36521
+                }
+            ]
+        },
+        {
+            "skuId": 16764592,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743597
+                }
+            ]
+        },
+        {
+            "skuId": 16764607,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743598
+                }
+            ]
+        },
+        {
+            "skuId": 16764612,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 36524
+                }
+            ]
+        },
+        {
+            "skuId": 16764613,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743599
+                }
+            ]
+        },
+        {
+            "skuId": 16764618,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743600
+                }
+            ]
+        },
+        {
+            "skuId": 16764626,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 36527
+                }
+            ]
+        },
+        {
+            "skuId": 16764627,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743601
+                }
+            ]
+        },
+        {
+            "skuId": 16764631,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 743602
+                }
+            ]
+        },
+        {
+            "skuId": 16764641,
+            "spuId": 2795,
+            "authPrice": 9900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 36514
+                }
+            ]
+        }
+    ],
+    "item": {},
+    "likesCount": 0,
+    "parameters": []
+}

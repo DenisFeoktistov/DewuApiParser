@@ -1,0 +1,507 @@
+{
+    "brands": [
+        "Goyard"
+    ],
+    "is_collab": false,
+    "collab_names": [],
+    "lines": [],
+    "categories": [
+        "Кардхолдеры"
+    ],
+    "brandName": "Goyard",
+    "model": "",
+    "colorway": "Кардхолдер Saint Sulpice 11 в 11-ти цветах",
+    "gender": [
+        "M",
+        "F"
+    ],
+    "baseGenders": [
+        "M",
+        "F"
+    ],
+    "extraGenders": [],
+    "custom": false,
+    "manufacturer_sku": "STSULPPMLTY",
+    "other_manufacturer_skus": [],
+    "date": "04.05.2021",
+    "approximate_date": "Весна/лето 2021",
+    "retailPrice": {
+        "currency": "CNY",
+        "price": 3424
+    },
+    "images": [
+        {
+            "imageId": 1,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/50941184b9ab41e287c6e79c53d5a25b.jpg"
+        },
+        {
+            "imageId": 1,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/2acb91c15373484885e1b7c61e4b3ebe.jpg"
+        },
+        {
+            "imageId": 1,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/28a64b1ffcda49bebd998a30897c26e2.jpg"
+        },
+        {
+            "imageId": 2,
+            "unitsIds": [
+                2
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/54cfbd44d472453d8a91d397fb152101.jpg"
+        },
+        {
+            "imageId": 2,
+            "unitsIds": [
+                2
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/bfca3902aed6478baae23b49529917a8.jpg"
+        },
+        {
+            "imageId": 2,
+            "unitsIds": [
+                2
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/cf7fa590c76d4184b94f63ff2531ac1b.jpg"
+        },
+        {
+            "imageId": 3,
+            "unitsIds": [
+                3
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/353a3d0a531940e8a81d843d2a44e6f3.jpg"
+        },
+        {
+            "imageId": 3,
+            "unitsIds": [
+                3
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/e9d3bcec7dc04d95bf97de5535fb295d.jpg"
+        },
+        {
+            "imageId": 3,
+            "unitsIds": [
+                3
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/26490f4b5dd14f948f473aef55c6a055.jpg"
+        },
+        {
+            "imageId": 4,
+            "unitsIds": [
+                4
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/91aacb9e52084ad381da5769881d5ab3.jpg"
+        },
+        {
+            "imageId": 4,
+            "unitsIds": [
+                4
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/08df1a6913d041e995355f9db2c6ad06.jpg"
+        },
+        {
+            "imageId": 4,
+            "unitsIds": [
+                4
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/3147bf169fc249a79858b8f83d782e7f.jpg"
+        },
+        {
+            "imageId": 5,
+            "unitsIds": [
+                5
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/aa9b6781d44a46669dff831d896c74f2.jpg"
+        },
+        {
+            "imageId": 5,
+            "unitsIds": [
+                5
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/fda2430c83bc42bc922fde318f9e9e98.jpg"
+        },
+        {
+            "imageId": 5,
+            "unitsIds": [
+                5
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/e09a36cf6c9a4f448a45125cd64e58d1.jpg"
+        },
+        {
+            "imageId": 6,
+            "unitsIds": [
+                6
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/66b847528d0f4229a411c45981ddcd3b.jpg"
+        },
+        {
+            "imageId": 6,
+            "unitsIds": [
+                6
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/db680937108f4895a57bf070fa2dc053.jpg"
+        },
+        {
+            "imageId": 6,
+            "unitsIds": [
+                6
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/0f46dadc79d84b099068e17099d82ba6.jpg"
+        },
+        {
+            "imageId": 7,
+            "unitsIds": [
+                7
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/6e81de0accaf4236bd15b761490111ad.jpg"
+        },
+        {
+            "imageId": 7,
+            "unitsIds": [
+                7
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/979cfe8eb08f4ddda04e1a4055549882.jpg"
+        },
+        {
+            "imageId": 7,
+            "unitsIds": [
+                7
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/b071ac7980a54c21950e6e770b89fc16.jpg"
+        },
+        {
+            "imageId": 7,
+            "unitsIds": [
+                7
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/17b6f2d561a7449a97927886fe72001e.jpg"
+        },
+        {
+            "imageId": 8,
+            "unitsIds": [
+                8
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/90aa4c1fc10346d2b9443f8cc936636b.jpg"
+        },
+        {
+            "imageId": 8,
+            "unitsIds": [
+                8
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/8dab690412634ef68fb63aca69bdd02d.jpg"
+        },
+        {
+            "imageId": 9,
+            "unitsIds": [
+                9
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/13c6467bd53f490ba83c11c7b917cd67.jpg"
+        },
+        {
+            "imageId": 9,
+            "unitsIds": [
+                9
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/44b321ec116c44f9b0c481840b23a6a2.jpg"
+        },
+        {
+            "imageId": 9,
+            "unitsIds": [
+                9
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/9e12d09d40d54145967a479c62b2f23e.jpg"
+        },
+        {
+            "imageId": 10,
+            "unitsIds": [
+                10
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/98b1e02b7a834d31a035eebb6301c18a.jpg"
+        },
+        {
+            "imageId": 10,
+            "unitsIds": [
+                10
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/1b9501e6c2fb48a58d3ae44073394726.jpg"
+        },
+        {
+            "imageId": 10,
+            "unitsIds": [
+                10
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/e04b280f9bf24b06ae806d12971364d2.jpg"
+        },
+        {
+            "imageId": 11,
+            "unitsIds": [
+                11
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/fad42f1e46ab42a182e47f574ecfb231.jpg"
+        },
+        {
+            "imageId": 11,
+            "unitsIds": [
+                11
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/d6e38d9f5b284f1a9ea18c49ce157fad.jpg"
+        },
+        {
+            "imageId": 11,
+            "unitsIds": [
+                11
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230526/08af789e69764eda9d9c22a3e263e403.jpg"
+        }
+    ],
+    "size_tables": {
+        "main_regular_table": {},
+        "main_measurements_table": {},
+        "default_table": {},
+        "tables_recommendations": {}
+    },
+    "parameters_to_show_in_product": {
+        "parameters": {
+            "Основные цвета": "Разноцветный",
+            "Материалы": "Канвас, Кожа, Телячья кожа, Ткань",
+            "Цена на ритейле": "44500₽"
+        },
+        "parameters_order": [
+            "Основные цвета",
+            "Материалы",
+            "Цена на ритейле"
+        ]
+    },
+    "parameters_to_use_in_filters": {
+        "colors": [
+            "multicolour"
+        ],
+        "material": [
+            "canvas",
+            "leather",
+            "mesh"
+        ],
+        "upper_height": [],
+        "heel_type": [],
+        "boots_height": [],
+        "length": [],
+        "sleeve_length": [],
+        "collar_type": [],
+        "closure_type": []
+    },
+    "units": [
+        {
+            "view_name": "Конфигурация №1",
+            "unitId": 1,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №2",
+            "unitId": 2,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №3",
+            "unitId": 3,
+            "imagesIds": [
+                3
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №4",
+            "unitId": 4,
+            "imagesIds": [
+                4
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №5",
+            "unitId": 5,
+            "imagesIds": [
+                5
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №6",
+            "unitId": 6,
+            "imagesIds": [
+                6
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №7",
+            "unitId": 7,
+            "imagesIds": [
+                7
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №8",
+            "unitId": 8,
+            "imagesIds": [
+                8
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №9",
+            "unitId": 9,
+            "imagesIds": [
+                9
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №10",
+            "unitId": 10,
+            "imagesIds": [
+                10
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "Конфигурация №11",
+            "unitId": 11,
+            "imagesIds": [
+                11
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 0.75,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        }
+    ],
+    "minPrice": {
+        "currency": "CNY",
+        "price": 2779.0
+    },
+    "likesCount": 7886,
+    "spuId": 1362621,
+    "hasConfigurationsWithDifferentImages": true
+}

@@ -225,6 +225,7 @@
           "adidas Yeezy Slide"
         ],
         "line_names": [
+          "yeezy Slides",
           "yeezy Slide"
         ]
       },
@@ -238,7 +239,7 @@
           "yeezy"
         ],
         "line_name_no_crop": [
-          "yeezy"
+          "Yeezy"
         ],
         "line_skip_names": [
           "pod-s3.1 blink"
@@ -437,7 +438,9 @@
           "Pharrell Williams",
           "nmd hu",
           "human race",
-          "nmd human race"
+          "nmd human race",
+          "Tennis Hu",
+          "Solar Hu"
         ],
         "line_name_no_crop": []
       },
@@ -498,10 +501,47 @@
       {
         "path": [
           "adidas",
+          "adidas PureBoost"
+        ],
+        "line_names": [
+          "PureBoost"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Pro Bounce"
         ],
         "line_names": [
           "Pro Bounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Alphabounce"
+        ],
+        "line_names": [
+          "Alphabounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Swift Run"
+        ],
+        "line_names": [
+          "Swift run",
+          "Swiftrun"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Duramo"
+        ],
+        "line_names": [
+          " Duramo "
         ]
       },
       {
@@ -615,7 +655,9 @@
           "pharrellhu",
           "pharrell hu",
           "nmdhu",
-          "nmd hu"
+          "nmd hu",
+          "solar hu",
+          "tennis hu"
         ],
         "collab_brand_names_no_crop": [],
         "collab_skus": [],
@@ -687,6 +729,31 @@
         "collab_brand_names": [
           "sean wotherspoon",
           "seanwotherspoon"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Sporty & Rich": {
+        "collab_brand_ids": [
+          "1008685"
+        ],
+        "collab_brand_names": [
+          "sporty & rich",
+          "sporty&rich",
+          "sportyrich"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Wales Bonner": {
+        "collab_brand_ids": [
+          "1015712"
+        ],
+        "collab_brand_names": [
+          "wales bonner",
+          "walesbonner"
         ],
         "collab_brand_names_no_crop": [],
         "collab_skus": [],
@@ -876,7 +943,7 @@
           "yeezy"
         ],
         "line_name_no_crop": [
-          "yeezy"
+          "Yeezy"
         ],
         "line_skip_names": [
           "pod-s3.1 blink"
@@ -1075,7 +1142,9 @@
           "Pharrell Williams",
           "nmd hu",
           "human race",
-          "nmd human race"
+          "nmd human race",
+          "Tennis Hu",
+          "Solar Hu"
         ],
         "line_name_no_crop": []
       },
@@ -1136,10 +1205,47 @@
       {
         "path": [
           "adidas",
+          "adidas PureBoost"
+        ],
+        "line_names": [
+          "PureBoost"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Pro Bounce"
         ],
         "line_names": [
           "Pro Bounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Alphabounce"
+        ],
+        "line_names": [
+          "Alphabounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Swift Run"
+        ],
+        "line_names": [
+          "Swift run",
+          "Swiftrun"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Duramo"
+        ],
+        "line_names": [
+          " Duramo "
         ]
       },
       {
@@ -1253,7 +1359,9 @@
           "pharrellhu",
           "pharrell hu",
           "nmdhu",
-          "nmd hu"
+          "nmd hu",
+          "solar hu",
+          "tennis hu"
         ],
         "collab_brand_names_no_crop": [],
         "collab_skus": [],
@@ -1325,6 +1433,31 @@
         "collab_brand_names": [
           "sean wotherspoon",
           "seanwotherspoon"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Sporty & Rich": {
+        "collab_brand_ids": [
+          "1008685"
+        ],
+        "collab_brand_names": [
+          "sporty & rich",
+          "sporty&rich",
+          "sportyrich"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Wales Bonner": {
+        "collab_brand_ids": [
+          "1015712"
+        ],
+        "collab_brand_names": [
+          "wales bonner",
+          "walesbonner"
         ],
         "collab_brand_names_no_crop": [],
         "collab_skus": [],
@@ -1513,7 +1646,7 @@
           "yeezy"
         ],
         "line_name_no_crop": [
-          "yeezy"
+          "Yeezy"
         ],
         "line_skip_names": [
           "pod-s3.1 blink"
@@ -1712,7 +1845,9 @@
           "Pharrell Williams",
           "nmd hu",
           "human race",
-          "nmd human race"
+          "nmd human race",
+          "Tennis Hu",
+          "Solar Hu"
         ],
         "line_name_no_crop": []
       },
@@ -1773,10 +1908,47 @@
       {
         "path": [
           "adidas",
+          "adidas PureBoost"
+        ],
+        "line_names": [
+          "PureBoost"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
           "adidas Pro Bounce"
         ],
         "line_names": [
           "Pro Bounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Alphabounce"
+        ],
+        "line_names": [
+          "Alphabounce"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Swift Run"
+        ],
+        "line_names": [
+          "Swift run",
+          "Swiftrun"
+        ]
+      },
+      {
+        "path": [
+          "adidas",
+          "adidas Duramo"
+        ],
+        "line_names": [
+          " Duramo "
         ]
       },
       {
@@ -1890,7 +2062,9 @@
           "pharrellhu",
           "pharrell hu",
           "nmdhu",
-          "nmd hu"
+          "nmd hu",
+          "solar hu",
+          "tennis hu"
         ],
         "collab_brand_names_no_crop": [],
         "collab_skus": [],
@@ -1962,6 +2136,31 @@
         "collab_brand_names": [
           "sean wotherspoon",
           "seanwotherspoon"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Sporty & Rich": {
+        "collab_brand_ids": [
+          "1008685"
+        ],
+        "collab_brand_names": [
+          "sporty & rich",
+          "sporty&rich",
+          "sportyrich"
+        ],
+        "collab_brand_names_no_crop": [],
+        "collab_skus": [],
+        "collab_skip_names": []
+      },
+      "adidas x Wales Bonner": {
+        "collab_brand_ids": [
+          "1015712"
+        ],
+        "collab_brand_names": [
+          "wales bonner",
+          "walesbonner"
         ],
         "collab_brand_names_no_crop": [],
         "collab_skus": [],
@@ -2426,6 +2625,18 @@
       {
         "path": [
           "Asics",
+          "Asics Gel-Venture"
+        ],
+        "line_names": [
+          "gel-Venture",
+          "gelVenture",
+          "gel Venture",
+          "gel - Venture"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
           "Asics Magic Speed"
         ],
         "line_names": [
@@ -2439,6 +2650,54 @@
         ],
         "line_names": [
           " gt "
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Resolution"
+        ],
+        "line_names": [
+          "gel-Resolution",
+          "gelResolution",
+          "gel Resolution",
+          "gel - Resolution"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Pulse"
+        ],
+        "line_names": [
+          "gel-Pulse",
+          "gelPulse",
+          "gel Pulse",
+          "gel - Pulse"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Sonoma"
+        ],
+        "line_names": [
+          "gel-Sonoma",
+          "gelSonoma",
+          "gel Sonoma",
+          "gel - Sonoma"
+        ]
+      },
+      {
+        "path": [
+          "Asics",
+          "Asics Gel-Saga"
+        ],
+        "line_names": [
+          "gel-Saga",
+          "gelSaga",
+          "gel Saga",
+          "gel - Saga"
         ]
       }
     ],
@@ -2823,8 +3082,7 @@
   },
   "10030": {
     "brand_names": [
-      "Carhartt",
-      "Carhartt WIP"
+      "Carhartt"
     ]
   },
   "10041": {
@@ -3122,8 +3380,8 @@
           "70"
         ],
         "line_name_no_crop": [
-          "all star",
-          "allstar",
+          "All Star",
+          "AllStar",
           "70"
         ]
       },
@@ -3930,7 +4188,7 @@
           "Jordan Air Ship"
         ],
         "line_names": [
-          "Luka"
+          "air ship"
         ]
       },
       {
@@ -3945,7 +4203,7 @@
           "jordan retro 10 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -3960,7 +4218,7 @@
           "jordan retro 11 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -3975,7 +4233,7 @@
           "jordan retro 12 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -3990,7 +4248,7 @@
           "jordan retro 13 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4005,7 +4263,7 @@
           "jordan retro 14 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4020,7 +4278,7 @@
           "jordan retro 15 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4035,7 +4293,7 @@
           "jordan retro 16 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4050,7 +4308,7 @@
           "jordan retro 17 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4065,7 +4323,7 @@
           "jordan retro 18 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4080,7 +4338,7 @@
           "jordan retro 19 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4095,7 +4353,7 @@
           "jordan retro 20 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4110,7 +4368,7 @@
           "jordan retro 21 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4125,7 +4383,7 @@
           "jordan retro 22 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4140,7 +4398,7 @@
           "jordan retro 23 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4156,7 +4414,7 @@
           "jordan retro 24 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4172,7 +4430,7 @@
           "jordan retro 25 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4189,7 +4447,7 @@
           "jordan retro 26 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4206,7 +4464,7 @@
           "jordan retro 27 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4221,7 +4479,7 @@
           "jordan retro 28 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4236,7 +4494,7 @@
           "jordan retro 29 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4251,7 +4509,7 @@
           "jordan retro 30 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4266,7 +4524,7 @@
           "jordan retro 31 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4281,7 +4539,7 @@
           "jordan retro 32 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4296,7 +4554,7 @@
           "jordan retro 33 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4311,7 +4569,7 @@
           "jordan retro 34 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4326,7 +4584,7 @@
           "jordan retro 35 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4341,7 +4599,7 @@
           "jordan retro 36 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4356,7 +4614,7 @@
           "jordan retro 37 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4371,7 +4629,7 @@
           "jordan retro 38 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4386,7 +4644,7 @@
           "jordan retro 39 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4427,15 +4685,15 @@
           "Air Jordan low 1 ",
           "Air Jordan 1 retro low",
           "air jordan retro 1 low",
-          "air jordan retro high 1 ",
+          "air jordan retro low 1 ",
           "jordan 1 low",
           "jordan low 1 ",
           "jordan retro 1 low",
-          "jordan retro high 1 ",
+          "jordan retro low 1 ",
           "jordan 1 retro low"
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4449,15 +4707,15 @@
           "Air Jordan mid 1 ",
           "Air Jordan 1 retro mid",
           "air jordan retro 1 mid",
-          "air jordan retro high 1 ",
+          "air jordan retro mid 1 ",
           "jordan 1 mid",
           "jordan mid 1 ",
           "jordan retro 1 mid",
-          "jordan retro high 1 ",
+          "jordan retro mid 1 ",
           "jordan 1 retro mid"
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4480,7 +4738,7 @@
           "Air Jordan 1 hi "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4496,7 +4754,7 @@
           "jordan retro 1 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4511,7 +4769,7 @@
           "jordan retro 2 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4526,7 +4784,7 @@
           "jordan retro 3 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4541,7 +4799,7 @@
           "jordan retro 4 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4556,7 +4814,7 @@
           "jordan retro 5 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4571,7 +4829,7 @@
           "jordan retro 6 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4586,7 +4844,7 @@
           "jordan retro 7 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4601,7 +4859,7 @@
           "jordan retro 8 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       },
       {
@@ -4616,7 +4874,7 @@
           "jordan retro 9 "
         ],
         "line_name_no_crop": [
-          "retro"
+          "Retro"
         ]
       }
     ],
@@ -5047,6 +5305,7 @@
           "Li-Ning Yushuai"
         ],
         "line_names": [
+          "Yushuai",
           "驭帅"
         ]
       },
@@ -5056,6 +5315,7 @@
           "Li-Ning Sonic"
         ],
         "line_names": [
+          "Sonic",
           "音速"
         ]
       },
@@ -5065,6 +5325,7 @@
           "Li-Ning Speed"
         ],
         "line_names": [
+          "Speed",
           "闪击"
         ]
       }
@@ -5405,7 +5666,11 @@
           "New Balance 237"
         ],
         "line_names": [
+          " 237V",
           " 237 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5414,7 +5679,11 @@
           "New Balance 327"
         ],
         "line_names": [
+          " 327V",
           " 327 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5423,7 +5692,11 @@
           "New Balance 530"
         ],
         "line_names": [
+          " 530V",
           " 530 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5432,7 +5705,11 @@
           "New Balance 550"
         ],
         "line_names": [
+          " 550V",
           " 550 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5441,7 +5718,11 @@
           "New Balance 574"
         ],
         "line_names": [
+          " 574V",
           " 574 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5450,7 +5731,11 @@
           "New Balance 580"
         ],
         "line_names": [
+          " 580V",
           " 580 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5459,7 +5744,24 @@
           "New Balance 650"
         ],
         "line_names": [
+          " 650V",
           " 650 "
+        ],
+        "line_name_no_crop": [
+          "V"
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 880"
+        ],
+        "line_names": [
+          " 880V",
+          " 880 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5468,7 +5770,11 @@
           "New Balance 990"
         ],
         "line_names": [
+          " 990V",
           " 990 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5477,7 +5783,11 @@
           "New Balance 991"
         ],
         "line_names": [
+          " 991V",
           " 991 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5486,7 +5796,11 @@
           "New Balance 992"
         ],
         "line_names": [
+          " 992V",
           " 992 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5495,7 +5809,24 @@
           "New Balance 993"
         ],
         "line_names": [
+          " 993V",
           " 993 "
+        ],
+        "line_name_no_crop": [
+          "V"
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 996"
+        ],
+        "line_names": [
+          " 996V",
+          " 996 "
+        ],
+        "line_name_no_crop": [
+          "V"
         ]
       },
       {
@@ -5504,7 +5835,20 @@
           "New Balance 997"
         ],
         "line_names": [
+          " 997V",
           " 997 "
+        ],
+        "line_name_no_crop": [
+          "V"
+        ]
+      },
+      {
+        "path": [
+          "New Balance",
+          "New Balance 1080"
+        ],
+        "line_names": [
+          " 1080 "
         ]
       },
       {
@@ -5513,6 +5857,7 @@
           "New Balance 9060"
         ],
         "line_names": [
+          "9060",
           "9060"
         ]
       },
@@ -5805,7 +6150,7 @@
         ],
         "line_skip_names": [],
         "line_name_no_crop": [
-          "sb"
+          "SB"
         ]
       },
       {
@@ -5822,7 +6167,7 @@
         ],
         "line_skip_names": [],
         "line_name_no_crop": [
-          "sb"
+          "SB"
         ]
       },
       {
@@ -5839,7 +6184,7 @@
         ],
         "line_skip_names": [],
         "line_name_no_crop": [
-          "sb"
+          "SB"
         ]
       },
       {
@@ -5882,10 +6227,10 @@
         ],
         "line_skip_names": [],
         "line_name_no_crop": [
-          "pro sb",
-          "sb pro",
-          "pro",
-          "sb"
+          "Pro SB",
+          "SB Pro",
+          "Pro",
+          "SB"
         ]
       },
       {
@@ -5908,10 +6253,10 @@
         ],
         "line_skip_names": [],
         "line_name_no_crop": [
-          "pro sb",
-          "sb pro",
-          "pro",
-          "sb"
+          "Pro SB",
+          "SB Pro",
+          "Pro",
+          "SB"
         ]
       },
       {
@@ -5934,10 +6279,10 @@
         ],
         "line_skip_names": [],
         "line_name_no_crop": [
-          "pro sb",
-          "sb pro",
-          "pro",
-          "sb"
+          "Pro SB",
+          "SB Pro",
+          "Pro",
+          "SB"
         ]
       },
       {
@@ -5991,7 +6336,7 @@
         ],
         "line_names": [
           "kevin durant",
-          "kd",
+          " kd ",
           "durant"
         ],
         "line_skip_names": []
@@ -6007,7 +6352,7 @@
           "mamba"
         ],
         "line_name_no_crop": [
-          "mamba"
+          "Mamba"
         ]
       },
       {
@@ -6017,6 +6362,7 @@
         ],
         "line_names": [
           "kyrie irving",
+          "irving",
           "kyrie"
         ],
         "line_skip_names": []
@@ -6211,6 +6557,16 @@
       {
         "path": [
           "Nike",
+          "Nike Roshe"
+        ],
+        "line_names": [
+          "roshe"
+        ],
+        "line_skip_names": []
+      },
+      {
+        "path": [
+          "Nike",
           "Nike Waffle"
         ],
         "line_names": [
@@ -6224,7 +6580,8 @@
           "Nike Air Zoom G.T."
         ],
         "line_names": [
-          "air zoom g.t."
+          "air zoom g.t.",
+          "air zoom gt"
         ],
         "line_skip_names": []
       },
@@ -6241,20 +6598,20 @@
       {
         "path": [
           "Nike",
-          "Nike Zoom"
+          "Nike React"
         ],
         "line_names": [
-          "zoom"
+          "react "
         ],
         "line_skip_names": []
       },
       {
         "path": [
           "Nike",
-          "Nike React"
+          "Nike Zoom"
         ],
         "line_names": [
-          "react "
+          "zoom"
         ],
         "line_skip_names": []
       }
@@ -6635,8 +6992,7 @@
         ],
         "collab_skus": [],
         "collab_skip_names": []
-      },
-      "many_collaborations": false
+      }
     }
   },
   "1222": {
@@ -7678,7 +8034,7 @@
   },
   "1018811": {
     "brand_names": [
-      "Cortiez"
+      "Corteiz"
     ],
     "collaborations": {
     },
@@ -8698,6 +9054,253 @@
   "1001713": {
     "brand_names": [
       "Grotto"
+    ]
+  },
+  "1020338": {
+    "brand_names": [
+      "Christys"
+    ]
+  },
+  "1006691": {
+    "brand_names": [
+      "Mozart"
+    ]
+  },
+  "1012501": {
+    "brand_names": [
+      "JPJ"
+    ]
+  },
+  "1029779": {
+    "brand_names": [
+      "Nothing Written"
+    ]
+  },
+  "1004056": {
+    "brand_names": [
+      "Fion"
+    ]
+  },
+  "1033684": {
+    "brand_names": [
+      "S.Rephen"
+    ]
+  },
+  "1002358": {
+    "brand_names": [
+      "Amazing Song"
+    ]
+  },
+  "1002984": {
+    "brand_names": [
+      "Kunogigi"
+    ]
+  },
+  "1000170": {
+    "brand_names": [
+      "Osprey"
+    ]
+  },
+  "1001896": {
+    "brand_names": [
+      "Lemaire"
+    ]
+  },
+  "1027691": {
+    "brand_names": [
+      "Dragon Diffusion"
+    ]
+  },
+  "1012350": {
+    "brand_names": [
+      "Clos"
+    ]
+  },
+  "1007001": {
+    "brand_names": [
+      "Fiedle&Sissi"
+    ]
+  },
+  "1027148": {
+    "brand_names": [
+      "Cthulhu"
+    ]
+  },
+  "1003495": {
+    "brand_names": [
+      "Peco"
+    ]
+  },
+  "1008424": {
+    "brand_names": [
+      "Bagsmart"
+    ]
+  },
+  "1003275": {
+    "brand_names": [
+      "Free Rabbit ll"
+    ]
+  },
+  "1009251": {
+    "brand_names": [
+      "August Harmony"
+    ]
+  },
+  "1003681": {
+    "brand_names": [
+      "Feng Chen Wang"
+    ]
+  },
+  "1001352": {
+    "brand_names": [
+      "Wonder Homie"
+    ]
+  },
+  "1001042": {
+    "brand_names": [
+      "SMFK"
+    ]
+  },
+  "10108": {
+    "brand_names": [
+      "the Mad HATcher"
+    ]
+  },
+  "10422": {
+    "brand_names": [
+      "AND1"
+    ]
+  },
+  "1015712": {
+    "brand_names": [
+      "Wales Bonner"
+    ]
+  },
+  "1003642": {
+    "brand_names": [
+      "Wacko Maria"
+    ]
+  },
+  "1023785": {
+    "brand_names": [
+      "Supra"
+    ]
+  },
+  "1008685": {
+    "brand_names": [
+      "Sporty & Rich"
+    ]
+  },
+  "1000675": {
+    "brand_names": [
+      "Song for the Mute"
+    ]
+  },
+  "1001836": {
+    "brand_names": [
+      "Simone Rocha"
+    ]
+  },
+  "1001838": {
+    "brand_names": [
+      "OAMC"
+    ]
+  },
+  "1004788": {
+    "brand_names": [
+      "Merrell"
+    ]
+  },
+  "1003828": {
+    "brand_names": [
+      "Liberaiders"
+    ]
+  },
+  "1004538": {
+    "brand_names": [
+      "Kiko Kostadinov"
+    ]
+  },
+  "1014543": {
+    "brand_names": [
+      "Karhu"
+    ]
+  },
+  "1004675": {
+    "brand_names": [
+      "Just Don"
+    ]
+  },
+  "1004767": {
+    "brand_names": [
+      "Junya Watanabe"
+    ]
+  },
+  "1010540": {
+    "brand_names": [
+      "BBC ICECREAM",
+      "ICECREAM"
+    ]
+  },
+  "1005825": {
+    "brand_names": [
+      "ERL"
+    ]
+  },
+  "1001814": {
+    "brand_names": [
+      "Enfants Riches Deprimes",
+      "e.r.d"
+    ]
+  },
+  "1013050": {
+    "brand_names": [
+      "Courreges"
+    ]
+  },
+  "1012532": {
+    "brand_names": [
+      "Brooks"
+    ]
+  },
+  "1001312": {
+    "brand_names": [
+      "Muscle Dog"
+    ]
+  },
+  "1006189": {
+    "brand_names": [
+      "Reserff"
+    ]
+  },
+  "10052": {
+    "brand_names": [
+      "Mastermind Japan"
+    ]
+  },
+  "1004917": {
+    "brand_names": [
+      "Kanye West"
+    ]
+  },
+  "1004674": {
+    "brand_names": [
+      "GOLF WANG"
+    ]
+  },
+  "1004365": {
+    "brand_names": [
+      "And Wander"
+    ]
+  },
+  "1017565": {
+    "brand_names": [
+      "Acronym"
+    ]
+  },
+  "1016165": {
+    "brand_names": [
+      "Caroline"
     ]
   }
 }

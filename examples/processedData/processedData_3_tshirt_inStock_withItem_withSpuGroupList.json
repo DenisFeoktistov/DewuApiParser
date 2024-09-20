@@ -1,0 +1,575 @@
+{
+    "brands": [
+        "A BATHING APE®"
+    ],
+    "is_collab": false,
+    "collab_names": [],
+    "lines": [],
+    "categories": [
+        "Футболки"
+    ],
+    "brandName": "A BATHING APE®",
+    "model": "",
+    "colorway": "Футболка T в 2-ух цветах",
+    "gender": [
+        "M",
+        "F"
+    ],
+    "baseGenders": [
+        "M",
+        "F"
+    ],
+    "extraGenders": [],
+    "custom": false,
+    "manufacturer_sku": "неизвестно",
+    "other_manufacturer_skus": [
+        "待定"
+    ],
+    "date": "04.05.2022",
+    "approximate_date": "Весна/лето 2022",
+    "retailPrice": {
+        "currency": "CNY",
+        "price": 999
+    },
+    "images": [
+        {
+            "imageId": 1,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20220823/17ac37eea8f84de3a6180015a97d69da.jpg"
+        },
+        {
+            "imageId": 2,
+            "unitsIds": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20220823/447cfa9428f546efa8b2335a22249632.jpg"
+        }
+    ],
+    "size_tables": {
+        "main_regular_table": {},
+        "main_measurements_table": {},
+        "default_table": {
+            "rows_order": [
+                "INT",
+                "RU",
+                "IT",
+                "FR",
+                "CM (Обхват груди)",
+                "CM (Обхват талии)",
+                "CM (Обхват бёдер)",
+                "US",
+                "UK",
+                "Китайский (верх)",
+                "Китайский (низ)",
+                "Размер"
+            ],
+            "values": {
+                "INT": [
+                    "XXXS",
+                    "XXS",
+                    "XS",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "XXXL",
+                    "4XL",
+                    "5XL",
+                    "Один размер"
+                ],
+                "RU": [
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46",
+                    "48",
+                    "50",
+                    "52",
+                    "54",
+                    "56",
+                    "58",
+                    "Один размер"
+                ],
+                "IT": [
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46",
+                    "48",
+                    "50",
+                    "52",
+                    "54",
+                    "Один размер"
+                ],
+                "FR": [
+                    "30",
+                    "32",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46",
+                    "48",
+                    "50",
+                    "Один размер"
+                ],
+                "CM (Обхват груди)": [
+                    "74-78",
+                    "78-82",
+                    "82-86",
+                    "86-90",
+                    "90-94",
+                    "94-98",
+                    "98-102",
+                    "102-106",
+                    "106-110",
+                    "110-114",
+                    "114-118",
+                    "Один размер"
+                ],
+                "CM (Обхват талии)": [
+                    "54-58",
+                    "58-62",
+                    "62-66",
+                    "66-70",
+                    "70-74",
+                    "74-78",
+                    "78-82",
+                    "82-86",
+                    "86-90",
+                    "90-94",
+                    "94-98",
+                    "Один размер"
+                ],
+                "CM (Обхват бёдер)": [
+                    "80-84",
+                    "84-88",
+                    "88-92",
+                    "92-96",
+                    "96-100",
+                    "100-104",
+                    "104-108",
+                    "108-112",
+                    "112-116",
+                    "116-120",
+                    "120-124",
+                    "Один размер"
+                ],
+                "US": [
+                    "00",
+                    "0",
+                    "2",
+                    "4",
+                    "6",
+                    "8",
+                    "10",
+                    "12",
+                    "14",
+                    "16",
+                    "18",
+                    "Один размер"
+                ],
+                "UK": [
+                    "2",
+                    "4",
+                    "6",
+                    "8",
+                    "10",
+                    "12",
+                    "14",
+                    "16",
+                    "18",
+                    "20",
+                    "22",
+                    "Один размер"
+                ],
+                "Китайский (верх)": [
+                    "140/64A",
+                    "145/72A",
+                    "150/76A",
+                    "155/80A",
+                    "160/84A",
+                    "165/88A",
+                    "170/92A",
+                    "175/96A",
+                    "180/100A",
+                    "185/104A",
+                    "190/108A",
+                    "Один размер"
+                ],
+                "Китайский (низ)": [
+                    "140/60A",
+                    "145/64A",
+                    "150/68A",
+                    "155/72A",
+                    "160/76A",
+                    "165/80A",
+                    "170/84A",
+                    "175/88A",
+                    "180/92A",
+                    "185/96A",
+                    "190/100A",
+                    "Один размер"
+                ],
+                "Размер": [
+                    "3",
+                    "5",
+                    "7",
+                    "9",
+                    "11",
+                    "13",
+                    "15",
+                    "17",
+                    "19",
+                    "21",
+                    "23",
+                    "Один размер"
+                ]
+            },
+            "table_name": "Основная таблица",
+            "table_title": "Женская одежда A BATHING APE®",
+            "table_description": "Обратите внимание, представленная таблица является таблицей по умолчанию. Для разных брендов размеры могут отличаться. Рекомендуем сверять размер конкретно для данного бренда. Вы всегда можете обратиться в службу поддержки, и мы обязательно поможем подобрать вам подходящий размер!"
+        },
+        "tables_recommendations": {}
+    },
+    "parameters_to_show_in_product": {
+        "parameters": {
+            "Основные цвета": "Разноцветный",
+            "Цена на ритейле": "13000₽"
+        },
+        "parameters_order": [
+            "Основные цвета",
+            "Материалы",
+            "Цена на ритейле"
+        ]
+    },
+    "parameters_to_use_in_filters": {
+        "colors": [
+            "multicolour"
+        ],
+        "material": [],
+        "upper_height": [],
+        "heel_type": [],
+        "boots_height": [],
+        "length": [],
+        "sleeve_length": [
+            "short"
+        ],
+        "collar_type": [
+            "round"
+        ],
+        "closure_type": [
+            "pullover"
+        ]
+    },
+    "units": [
+        {
+            "view_name": "XXS",
+            "unitId": 1,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XXS"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XS",
+            "unitId": 2,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XS"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "S",
+            "unitId": 3,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "S"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "M",
+            "unitId": 4,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "M"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "L",
+            "unitId": 5,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "L"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XL",
+            "unitId": 6,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XL"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XXL",
+            "unitId": 7,
+            "imagesIds": [
+                1
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XXL"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XXS",
+            "unitId": 8,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XXS"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XS",
+            "unitId": 9,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XS"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "S",
+            "unitId": 10,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "S"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "M",
+            "unitId": 11,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "M"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "L",
+            "unitId": 12,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "L"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XL",
+            "unitId": 13,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XL"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "XXL",
+            "unitId": 14,
+            "imagesIds": [
+                2
+            ],
+            "showImage": true,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Men",
+                "table_row_name": "Международный(INT)",
+                "sizes": [
+                    "XXL"
+                ]
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        }
+    ],
+    "minPrice": {
+        "currency": "CNY",
+        "price": 0.0
+    },
+    "likesCount": 12,
+    "spuId": 3242777,
+    "hasConfigurationsWithDifferentImages": true
+}

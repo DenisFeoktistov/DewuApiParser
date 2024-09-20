@@ -1,0 +1,248 @@
+{
+    "images_full": [
+        {
+            "propertyValueId": 0,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 0,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230528/797c0c6463ca455ba9e194659fd79219.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 0,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230528/cfeaf45fb1ae4622a41ca7706af8ae4f.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 0,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230528/4fbf90183bc340a0b89024d11685667a.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 0,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230528/9a4b418ea77240bf94632448c9333b9d.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 0,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230528/ee77122f94e74c37a12d8f94bd6c62fe.jpg",
+            "imgType": 0
+        }
+    ],
+    "images": [
+        "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230528/797c0c6463ca455ba9e194659fd79219.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230528/cfeaf45fb1ae4622a41ca7706af8ae4f.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230528/4fbf90183bc340a0b89024d11685667a.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230528/9a4b418ea77240bf94632448c9333b9d.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230528/ee77122f94e74c37a12d8f94bd6c62fe.jpg"
+    ],
+    "arSkuIdRelation": [
+        {
+            "spuId": 3769087,
+            "skuId": 617266722,
+            "propertyValueId": 214432308,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266723,
+            "propertyValueId": 214432309,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266724,
+            "propertyValueId": 214432310,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266725,
+            "propertyValueId": 214432311,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266726,
+            "propertyValueId": 214432312,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266727,
+            "propertyValueId": 214432313,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266728,
+            "propertyValueId": 214432314,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        },
+        {
+            "spuId": 3769087,
+            "skuId": 617266729,
+            "propertyValueId": 214432315,
+            "arFile": "",
+            "arFileBD": "https://h5static.dewucdn.com/node-common/8f8b7c4e-6536-786e-bbfd-d0b843b43fdb.zip"
+        }
+    ],
+    "gif": "https://h5static.dewucdn.com/node-common/415ed3c9-8a2a-062b-bc74-0a773d2133a0-500-350.gif",
+    "poizonSpuGroupList": [],
+    "spuId": 3769087,
+    "brandId": 13,
+    "relatedBrands": [],
+    "allBrands": [
+        13
+    ],
+    "title": "Jordan Air Jordan 1 High OG Black and Lucky Green 黑绿脚趾 凯尔特人 防滑耐磨 高帮 复古篮球鞋 GS 白绿黑",
+    "categoryId": 1001176,
+    "categoryName": "复古篮球鞋",
+    "level1CategoryId": 29,
+    "level2CategoryId": 35,
+    "manufacturer_sku": "FD1437-031",
+    "manufacturer_skus": [],
+    "releaseDate": "2023.03",
+    "retailPrice": 999,
+    "fitId": 3,
+    "goodsType": 0,
+    "subTitle": "",
+    "description": "",
+    "skus": [
+        {
+            "skuId": 617266722,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432308
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266723,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432309
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266724,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432310
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266725,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432311
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266726,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432312
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266727,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432313
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266728,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432314
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        },
+        {
+            "skuId": 617266729,
+            "spuId": 3769087,
+            "authPrice": 99900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 214432315
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20230528/9e9f5a576626472896668ce6118e619e.jpg"
+        }
+    ],
+    "item": {
+        "saleInventoryNo": "SN103128019183PS06",
+        "price": 38900,
+        "type": 1,
+        "maxPrice": 95900,
+        "tradeType": 2,
+        "skuId": 617266723,
+        "floorPrice": 38900,
+        "upperPrice": 0,
+        "intentPrice": 0,
+        "haveBrandBid": false,
+        "activityPrice": 0,
+        "includeTax": false,
+        "originalPrice": 38900,
+        "taxInfo": {
+            "includeTax": false
+        },
+        "nonGlobalOriginalPrice": 38900
+    },
+    "likesCount": 40368,
+    "parameters": []
+}

@@ -1,0 +1,138 @@
+{
+  "brands": [
+    "Nike"
+  ],
+  "is_collab": false,
+  "collab_names": [],
+  "lines": [],
+  "categories": [
+    "Другие аксессуары"
+  ],
+  "brandName": "Nike",
+  "model": "",
+  "colorway": "Аксессуар Lab NSW Gaiter Boot",
+  "gender": [
+    "M"
+  ],
+  "baseGenders": [
+    "M"
+  ],
+  "extraGenders": [],
+  "custom": false,
+  "manufacturer_sku": "AA0530-800",
+  "other_manufacturer_skus": [],
+  "date": "01.03.2018",
+  "approximate_date": "01.03.2018",
+  "retailPrice": {
+    "currency": "CNY",
+    "price": 1199
+  },
+  "images": [
+    {
+      "imageId": 0,
+      "unitsIds": [
+        1
+      ],
+      "url": "https://cdn.poizon.com/pro-img/origin-img/20220212/06027a1959a347cd9bf192007fd0142b.jpg"
+    },
+    {
+      "imageId": 0,
+      "unitsIds": [
+        1
+      ],
+      "url": "https://cdn.poizon.com/pro-img/origin-img/20231215/12df0148615b471bad2448bae640042e.jpg"
+    },
+    {
+      "imageId": 0,
+      "unitsIds": [
+        1
+      ],
+      "url": "https://cdn.poizon.com/pro-img/origin-img/20231215/beb4539d590e49a2a0bae10b0ec3e631.jpg"
+    },
+    {
+      "imageId": 0,
+      "unitsIds": [
+        1
+      ],
+      "url": "https://cdn.poizon.com/pro-img/origin-img/20231215/005e05bf732e4bdcbc2bccdf14dbdf75.jpg"
+    },
+    {
+      "imageId": 0,
+      "unitsIds": [
+        1
+      ],
+      "url": "https://cdn.poizon.com/pro-img/origin-img/20231215/ae704c10af4e40a1aa0c1bb04b1fb001.jpg"
+    }
+  ],
+  "size_tables": {
+    "main_regular_table": {},
+    "main_measurements_table": {},
+    "default_table": {},
+    "tables_recommendations": {}
+  },
+  "parameters_to_show_in_product": {
+    "parameters": {
+      "Цена на ритейле": "15600₽"
+    },
+    "parameters_order": [
+      "Основные цвета",
+      "Материалы",
+      "Цена на ритейле"
+    ]
+  },
+  "parameters_to_use_in_filters": {
+    "colors": [],
+    "material": [],
+    "upper_height": [
+      "high"
+    ],
+    "heel_type": [],
+    "boots_height": [],
+    "length": [],
+    "sleeve_length": [],
+    "collar_type": [],
+    "closure_type": []
+  },
+  "units": [
+    {
+      "view_name": "Один размер",
+      "unitId": 1,
+      "imagesIds": [
+        0
+      ],
+      "showImage": false,
+      "filter_size_table_info": {
+        "table_name": "",
+        "table_row_name": "",
+        "sizes": []
+      },
+      "offers": [
+        {
+          "price": 1359.0,
+          "currency": "CNY",
+          "days_min_to_international_warehouse": 0,
+          "days_max_to_international_warehouse": 0,
+          "delivery_type": "standard",
+          "platform_info": {
+            "poizon": {
+              "source": "notFullAPI",
+              "sku": 56028626,
+              "poizon_abroad": false
+            }
+          }
+        }
+      ],
+      "weight": 1.5,
+      "height": 0,
+      "width": 0,
+      "length": 0
+    }
+  ],
+  "minPrice": {
+    "currency": "CNY",
+    "price": 0
+  },
+  "likesCount": 1816,
+  "spuId": 9339,
+  "hasConfigurationsWithDifferentImages": false
+}

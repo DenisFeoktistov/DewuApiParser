@@ -1,0 +1,331 @@
+{
+    "images_full": [
+        {
+            "propertyValueId": 381909411,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 381909411,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240326/53563189901c4910a2cceb57b09caf9e.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 381909411,
+            "url": "https://cdn.poizon.com/trade/gondor/10354827/20240326-da0dca469d5b32c5-w750h750.jpg",
+            "imgType": 4
+        },
+        {
+            "propertyValueId": 381909411,
+            "url": "https://cdn.poizon.com/trade/gondor/10354827/20240326-a9f6111800477352-w750h750.jpg",
+            "imgType": 4
+        },
+        {
+            "propertyValueId": 381909412,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 381909412,
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b9beb9593b74d51a92b1f21341325c4.jpg",
+            "imgType": 0
+        },
+        {
+            "propertyValueId": 381909412,
+            "url": "https://cdn.poizon.com/trade/gondor/10354827/20240326-b3553b903fd0c5bb-w750h750.jpg",
+            "imgType": 4
+        },
+        {
+            "propertyValueId": 381909412,
+            "url": "https://cdn.poizon.com/trade/gondor/10354827/20240326-391aded209fb28ef-w750h750.jpg",
+            "imgType": 4
+        }
+    ],
+    "images": [
+        "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20240326/53563189901c4910a2cceb57b09caf9e.jpg",
+        "https://cdn.poizon.com/trade/gondor/10354827/20240326-da0dca469d5b32c5-w750h750.jpg",
+        "https://cdn.poizon.com/trade/gondor/10354827/20240326-a9f6111800477352-w750h750.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20240326/4b9beb9593b74d51a92b1f21341325c4.jpg",
+        "https://cdn.poizon.com/trade/gondor/10354827/20240326-b3553b903fd0c5bb-w750h750.jpg",
+        "https://cdn.poizon.com/trade/gondor/10354827/20240326-391aded209fb28ef-w750h750.jpg"
+    ],
+    "arSkuIdRelation": [
+        {
+            "spuId": 10461728,
+            "skuId": 663399936,
+            "propertyValueId": 381909411
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399937,
+            "propertyValueId": 381909411
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399938,
+            "propertyValueId": 381909411
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399939,
+            "propertyValueId": 381909411
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399940,
+            "propertyValueId": 381909411
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399941,
+            "propertyValueId": 381909412
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399942,
+            "propertyValueId": 381909412
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399943,
+            "propertyValueId": 381909412
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399944,
+            "propertyValueId": 381909412
+        },
+        {
+            "spuId": 10461728,
+            "skuId": 663399945,
+            "propertyValueId": 381909412
+        }
+    ],
+    "gif": "",
+    "poizonSpuGroupList": [
+        {
+            "spuId": 10461728,
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg",
+            "propertyValueId": 381909411
+        },
+        {
+            "spuId": 10461728,
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg",
+            "propertyValueId": 381909412
+        }
+    ],
+    "spuId": 10461728,
+    "brandId": 439,
+    "relatedBrands": [],
+    "allBrands": [
+        439
+    ],
+    "title": "Supreme x MM6 Maison Margiela 联名款 WEEK7 FOIL BOX LOGO SWEATSHIRT 刷漆工艺铝箔徽标连帽长袖卫衣 男女同款",
+    "categoryId": 1002848,
+    "categoryName": "卫衣",
+    "level1CategoryId": 2,
+    "level2CategoryId": 3,
+    "manufacturer_sku": "SUP-SS24-109",
+    "manufacturer_skus": [],
+    "releaseDate": "2024.03.30",
+    "retailPrice": 2199,
+    "fitId": 1,
+    "goodsType": 1,
+    "subTitle": "",
+    "description": "",
+    "skus": [
+        {
+            "skuId": 663399936,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909411
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909413
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg"
+        },
+        {
+            "skuId": 663399937,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909411
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909414
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg"
+        },
+        {
+            "skuId": 663399938,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909411
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909415
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg"
+        },
+        {
+            "skuId": 663399939,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909411
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909416
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg"
+        },
+        {
+            "skuId": 663399940,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909411
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909417
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/4b68c6bb64ce4ff8b3a73e0e17b6d17b.jpg"
+        },
+        {
+            "skuId": 663399941,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909412
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909413
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg"
+        },
+        {
+            "skuId": 663399942,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909412
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909414
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg"
+        },
+        {
+            "skuId": 663399943,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909412
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909415
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg"
+        },
+        {
+            "skuId": 663399944,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909412
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909416
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg"
+        },
+        {
+            "skuId": 663399945,
+            "spuId": 10461728,
+            "authPrice": 219900,
+            "status": 1,
+            "properties": [
+                {
+                    "level": 1,
+                    "propertyValueId": 381909412
+                },
+                {
+                    "level": 2,
+                    "propertyValueId": 381909417
+                }
+            ],
+            "logoUrl": "https://cdn.poizon.com/pro-img/origin-img/20240326/b4c88ed93178480f90eae1379714960c.jpg"
+        }
+    ],
+    "item": {
+        "saleInventoryNo": "SN103053508721PS10",
+        "price": 189900,
+        "type": 1,
+        "maxPrice": 246900,
+        "tradeType": 2,
+        "skuId": 663399936,
+        "floorPrice": 189900,
+        "upperPrice": 0,
+        "intentPrice": 0,
+        "haveBrandBid": false,
+        "activityPrice": 0,
+        "includeTax": false,
+        "originalPrice": 189900,
+        "taxInfo": {
+            "includeTax": false
+        },
+        "nonGlobalOriginalPrice": 189900
+    },
+    "likesCount": 6602,
+    "parameters": []
+}

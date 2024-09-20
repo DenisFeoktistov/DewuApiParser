@@ -1,0 +1,656 @@
+{
+    "brands": [
+        "Stone Island"
+    ],
+    "is_collab": false,
+    "collab_names": [],
+    "lines": [],
+    "categories": [
+        "Свитшоты",
+        "Все худи и толстовки"
+    ],
+    "brandName": "Stone Island",
+    "model": "",
+    "colorway": "Свитшот Logo",
+    "gender": [
+        "K"
+    ],
+    "baseGenders": [
+        "K"
+    ],
+    "extraGenders": [],
+    "custom": false,
+    "manufacturer_sku": "791661320-V0053",
+    "other_manufacturer_skus": [],
+    "date": "22.02.2022",
+    "approximate_date": "",
+    "retailPrice": {
+        "currency": "CNY",
+        "price": 1465
+    },
+    "images": [
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240415/61c17a0498fd47dab6b535bea1c84157.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240415/265618eccb58469f813adea3b58ef961.jpg"
+        }
+    ],
+    "size_tables": {
+        "main_regular_table": {},
+        "main_measurements_table": {},
+        "default_table": {
+            "rows_order": [
+                "CM (Рост)",
+                "",
+                "СМ (Обхват груди)",
+                "СМ (Обхват талии)",
+                "СМ (Обхват бёдер)"
+            ],
+            "values": {
+                "CM (Рост)": [
+                    "46-52",
+                    "58-64",
+                    "64-70",
+                    "70-76",
+                    "76-88",
+                    "88-94",
+                    "94-100",
+                    "100-106",
+                    "106-112",
+                    "112-118",
+                    "118-124",
+                    "124-130",
+                    "130-136",
+                    "136-142",
+                    "142-148",
+                    "148-154",
+                    "154-160",
+                    "160-166",
+                    "166-172",
+                    "172-178",
+                    "Один размер"
+                ],
+                "": [
+                    "1 мес.",
+                    "3 мес.",
+                    "6 мес.",
+                    "9 мес.",
+                    "1 год",
+                    "2 года",
+                    "3 года",
+                    "4 года",
+                    "5 лет",
+                    "6 лет",
+                    "7 лет",
+                    "8 лет",
+                    "9 лет",
+                    "10 лет",
+                    "11 лет",
+                    "12 лет",
+                    "13 лет",
+                    "14 лет",
+                    "16 лет",
+                    "18 лет",
+                    "Один размер"
+                ],
+                "СМ (Обхват груди)": [
+                    "41-43",
+                    "45-47",
+                    "47-49",
+                    "49-51",
+                    "51-53",
+                    "53-55",
+                    "54-56",
+                    "55-57",
+                    "57-59",
+                    "59-61",
+                    "61-63",
+                    "63-65",
+                    "65-68",
+                    "68-71",
+                    "71-74",
+                    "74-77",
+                    "77-80",
+                    "80-83",
+                    "83-86",
+                    "86-89",
+                    "Один размер"
+                ],
+                "СМ (Обхват талии)": [
+                    "41-43",
+                    "45-47",
+                    "46-48",
+                    "47-49",
+                    "48-50",
+                    "50-52",
+                    "51-53",
+                    "52-54",
+                    "53-55",
+                    "54-56",
+                    "55-57",
+                    "57-59",
+                    "58-61",
+                    "61-63",
+                    "63-65",
+                    "65-67",
+                    "67-69",
+                    "69-71",
+                    "71-73",
+                    "73-75",
+                    "Один размер"
+                ],
+                "СМ (Обхват бёдер)": [
+                    "41-43",
+                    "45-47",
+                    "47-49",
+                    "49-51",
+                    "51-54",
+                    "54-56",
+                    "56-58",
+                    "58-60",
+                    "60-62",
+                    "61-64",
+                    "64-67",
+                    "67-70",
+                    "70-73",
+                    "73-76",
+                    "76-79",
+                    "79-82",
+                    "82-85",
+                    "85-88",
+                    "88-91",
+                    "91-94",
+                    "Один размер"
+                ]
+            },
+            "table_name": "Основная таблица",
+            "table_title": "Детская одежда Stone Island",
+            "table_description": "Обратите внимание, представленная таблица является таблицей по умолчанию. Для разных брендов размеры могут отличаться. Рекомендуем сверять размер конкретно для данного бренда. Вы всегда можете обратиться в службу поддержки, и мы обязательно поможем подобрать вам подходящий размер!"
+        },
+        "tables_recommendations": {}
+    },
+    "parameters_to_show_in_product": {
+        "parameters": {
+            "Основные цвета": "Зеленый",
+            "Цена на ритейле": "19000₽"
+        },
+        "parameters_order": [
+            "Основные цвета",
+            "Материалы",
+            "Цена на ритейле"
+        ]
+    },
+    "parameters_to_use_in_filters": {
+        "colors": [
+            "green"
+        ],
+        "material": [],
+        "upper_height": [],
+        "heel_type": [],
+        "boots_height": [],
+        "length": [],
+        "sleeve_length": [
+            "long"
+        ],
+        "collar_type": [
+            "round"
+        ],
+        "closure_type": []
+    },
+    "units": [
+        {
+            "view_name": "46-52 CM (Рост)",
+            "unitId": 1,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "46-52"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "58-64 CM (Рост)",
+            "unitId": 2,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "58-64"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "64-70 CM (Рост)",
+            "unitId": 3,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "64-70"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "70-76 CM (Рост)",
+            "unitId": 4,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "70-76"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "76-88 CM (Рост)",
+            "unitId": 5,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "76-88"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "88-94 CM (Рост)",
+            "unitId": 6,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "88-94"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "94-100 CM (Рост)",
+            "unitId": 7,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "94-100"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "100-106 CM (Рост)",
+            "unitId": 8,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "100-106"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "106-112 CM (Рост)",
+            "unitId": 9,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "106-112"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "112-118 CM (Рост)",
+            "unitId": 10,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "112-118"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "118-124 CM (Рост)",
+            "unitId": 11,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "118-124"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "124-130 CM (Рост)",
+            "unitId": 12,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "124-130"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "130-136 CM (Рост)",
+            "unitId": 13,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "130-136"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "136-142 CM (Рост)",
+            "unitId": 14,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "136-142"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "142-148 CM (Рост)",
+            "unitId": 15,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "142-148"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "148-154 CM (Рост)",
+            "unitId": 16,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "148-154"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "154-160 CM (Рост)",
+            "unitId": 17,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "154-160"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "160-166 CM (Рост)",
+            "unitId": 18,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "160-166"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "166-172 CM (Рост)",
+            "unitId": 19,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "166-172"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "172-178 CM (Рост)",
+            "unitId": 20,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Clothes_Kids",
+                "table_row_name": "Рост(СМ)",
+                "sizes": [
+                    "172-178"
+                ]
+            },
+            "offers": [],
+            "weight": 1.25,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        }
+    ],
+    "minPrice": {
+        "currency": "CNY",
+        "price": 799.0
+    },
+    "likesCount": 58,
+    "spuId": 10935064,
+    "hasConfigurationsWithDifferentImages": false
+}

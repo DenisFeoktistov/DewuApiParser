@@ -1,0 +1,145 @@
+{
+    "brands": [
+        "HERMES"
+    ],
+    "is_collab": false,
+    "collab_names": [],
+    "lines": [],
+    "categories": [
+        "Сумки с ручками"
+    ],
+    "brandName": "HERMES",
+    "model": "",
+    "colorway": "Сумка Birkin 25",
+    "gender": [
+        "F"
+    ],
+    "baseGenders": [
+        "F"
+    ],
+    "extraGenders": [],
+    "custom": false,
+    "manufacturer_sku": "H1218",
+    "other_manufacturer_skus": [
+        "爱马仕H1218"
+    ],
+    "date": "16.10.2021",
+    "approximate_date": "Осень/зима 2021",
+    "retailPrice": {
+        "currency": "CNY",
+        "price": 3800000
+    },
+    "images": [
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/febb1e2b7f9e47b08949818e5ee76d66.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/5cd1ebd365844a0f9fff75f493bd39d6.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/57c8c35d633a4f66807b1176ab60e36c.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/2a6acf5166ed4c398ecdd8960ece6fd8.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/abb6267fe52a4e5aa32873fe0189a7f0.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/2c618446b58a4fd28ce86a8238e6c533.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230426/4dafc4690e9143359e1783ecd42070f6.jpg"
+        }
+    ],
+    "size_tables": {
+        "main_regular_table": {},
+        "main_measurements_table": {},
+        "default_table": {},
+        "tables_recommendations": {}
+    },
+    "parameters_to_show_in_product": {
+        "parameters": {
+            "Основные цвета": "Нейтральный, Золотой",
+            "Материалы": "Кожа крокодила",
+            "Цена на ритейле": "49400000₽"
+        },
+        "parameters_order": [
+            "Основные цвета",
+            "Материалы",
+            "Цена на ритейле"
+        ]
+    },
+    "parameters_to_use_in_filters": {
+        "colors": [
+            "neutrals",
+            "gold",
+            "white"
+        ],
+        "material": [
+            "crocodile_skin"
+        ],
+        "upper_height": [],
+        "heel_type": [],
+        "boots_height": [],
+        "length": [],
+        "sleeve_length": [],
+        "collar_type": [],
+        "closure_type": []
+    },
+    "units": [
+        {
+            "view_name": "Один размер",
+            "unitId": 1,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        }
+    ],
+    "minPrice": {
+        "currency": "CNY",
+        "price": 0.0
+    },
+    "likesCount": 279,
+    "spuId": 2299951,
+    "hasConfigurationsWithDifferentImages": false
+}

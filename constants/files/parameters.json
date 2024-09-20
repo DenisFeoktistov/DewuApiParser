@@ -1,0 +1,1038 @@
+{
+  "mainParams": {
+    "colors": {
+      "浅骨": {
+        "russian_name": "Костный",
+        "name": [
+          "white",
+          "neutrals"
+        ]
+      },
+      "白": {
+        "russian_name": "Белый",
+        "name": [
+          "white"
+        ]
+      },
+      "桦树": {
+        "russian_name": "Белый",
+        "name": [
+          "white"
+        ]
+      },
+      "冠军白": {
+        "russian_name": "Белый",
+        "name": [
+          "white"
+        ]
+      },
+      "银": {
+        "russian_name": "Серебряный",
+        "name": [
+          "silver"
+        ]
+      },
+      "金属银": {
+        "russian_name": "Серебряный",
+        "name": [
+          "silver"
+        ]
+      },
+      "银白": {
+        "russian_name": "Бело-серебряный",
+        "name": [
+          "white",
+          "silver"
+        ]
+      },
+      "米": {
+        "russian_name": "Нейтральный",
+        "name": [
+          "neutrals",
+          "white"
+        ]
+      },
+      "米白": {
+        "russian_name": "Нейтрально-белый",
+        "name": [
+          "neutrals",
+          "white"
+        ]
+      },
+      "驼": {
+        "russian_name": "Нейтральный",
+        "name": [
+          "neutrals",
+          "white"
+        ]
+      },
+      "拿铁咖啡": {
+        "russian_name": "Нейтральный",
+        "name": [
+          "neutrals"
+        ]
+      },
+      "咖啡": {
+        "russian_name": "Кофейный",
+        "name": [
+          "neutrals",
+          "brown"
+        ]
+      },
+      "奶白": {
+        "russian_name": "Нейтральный",
+        "name": [
+          "neutrals",
+          "white"
+        ]
+      },
+      "黄": {
+        "russian_name": "Жёлтый",
+        "name": [
+          "yellow"
+        ]
+      },
+      "黄油": {
+        "russian_name": "Жёлтый",
+        "name": [
+          "yellow"
+        ]
+      },
+      "金": {
+        "russian_name": "Золотой",
+        "name": [
+          "gold"
+        ]
+      },
+      "铜": {
+        "russian_name": "Золотой",
+        "name": [
+          "gold",
+          "yellow"
+        ]
+      },
+      "绿": {
+        "russian_name": "Зеленый",
+        "name": [
+          "green"
+        ]
+      },
+      "橄榄": {
+        "russian_name": "Оливковый",
+        "name": [
+          "green"
+        ]
+      },
+      "军绿": {
+        "russian_name": "Военно-зеленый",
+        "name": [
+          "green"
+        ]
+      },
+      "墨绿": {
+        "russian_name": "Тёмено-зеленый",
+        "name": [
+          "green"
+        ]
+      },
+      "蒂芙尼绿": {
+        "russian_name": "Tiffany",
+        "name": [
+          "green",
+          "blue"
+        ]
+      },
+      "迷彩绿": {
+        "russian_name": "Зеленый",
+        "name": [
+          "green"
+        ]
+      },
+      "薄荷绿": {
+        "russian_name": "Мятный",
+        "name": [
+          "green"
+        ]
+      },
+      "青": {
+        "russian_name": "Бирюзовый",
+        "name": [
+          "green"
+        ]
+      },
+      "芥末黄": {
+        "russian_name": "Лаймовый",
+        "name": [
+          "green",
+          "yellow"
+        ]
+      },
+      "牛油果": {
+        "russian_name": "Авокадо",
+        "name": [
+          "green"
+        ]
+      },
+      "橙": {
+        "russian_name": "Оранжевый",
+        "name": [
+          "orange"
+        ]
+      },
+      "杏": {
+        "russian_name": "Оранжевый",
+        "name": [
+          "orange"
+        ]
+      },
+      "橘": {
+        "russian_name": "Оранжевый",
+        "name": [
+          "orange"
+        ]
+      },
+      "桔红": {
+        "russian_name": "Оранжевый",
+        "name": [
+          "orange"
+        ]
+      },
+      "晨曦粉": {
+        "russian_name": "Светло-розовый",
+        "name": [
+          "pink"
+        ]
+      },
+      "浅粉": {
+        "russian_name": "Светло-розовый",
+        "name": [
+          "pink"
+        ]
+      },
+      "粉": {
+        "russian_name": "Розовый",
+        "name": [
+          "pink"
+        ]
+      },
+      "藕": {
+        "russian_name": "Розовый",
+        "name": [
+          "pink"
+        ]
+      },
+      "红": {
+        "russian_name": "Красный",
+        "name": [
+          "red"
+        ]
+      },
+      "红荧光": {
+        "russian_name": "Красный",
+        "name": [
+          "red"
+        ]
+      },
+      "酒红": {
+        "russian_name": "Burgundy",
+        "name": [
+          "red"
+        ]
+      },
+      "葡萄酒红": {
+        "russian_name": "Бордовый",
+        "name": [
+          "red"
+        ]
+      },
+      "永恒蓝": {
+        "russian_name": "Тёмно-синий",
+        "name": [
+          "blue"
+        ]
+      },
+      "深蓝": {
+        "russian_name": "Тёмно-синий",
+        "name": [
+          "blue"
+        ]
+      },
+      "藏青": {
+        "russian_name": "Тёмно-синий",
+        "name": [
+          "blue"
+        ]
+      },
+      "蓝芭蕾蓝": {
+        "russian_name": "Голубой",
+        "name": [
+          "blue"
+        ]
+      },
+      "天蓝": {
+        "russian_name": "Sky Blue",
+        "name": [
+          "blue"
+        ]
+      },
+      "皇家蓝": {
+        "russian_name": "Royal Blue",
+        "name": [
+          "blue"
+        ]
+      },
+      "蓝": {
+        "russian_name": "Синий",
+        "name": [
+          "blue"
+        ]
+      },
+      "紫罗兰": {
+        "russian_name": "Фиалковый",
+        "name": [
+          "pink",
+          "purple"
+        ]
+      },
+      "浅紫": {
+        "russian_name": "Лиловый",
+        "name": [
+          "purple",
+          "pink"
+        ]
+      },
+      "暮光紫": {
+        "russian_name": "Розовый",
+        "name": [
+          "pink"
+        ]
+      },
+      "香槟": {
+        "russian_name": "Цвет шампанского",
+        "name": [
+          "gold",
+          "neutrals"
+        ]
+      },
+      "紫": {
+        "russian_name": "Фиолетовый",
+        "name": [
+          "purple"
+        ]
+      },
+      "灰": {
+        "russian_name": "Серый",
+        "name": [
+          "grey"
+        ]
+      },
+      "黑": {
+        "russian_name": "Черный",
+        "name": [
+          "black"
+        ]
+      },
+      "全黑": {
+        "russian_name": "Абсолютно Черный",
+        "name": [
+          "black"
+        ]
+      },
+      "正黑": {
+        "russian_name": "Черный",
+        "name": [
+          "black"
+        ]
+      },
+      "黑闪": {
+        "russian_name": "Черный блестящий",
+        "name": [
+          "black"
+        ]
+      },
+      "沙": {
+        "russian_name": "Песочный",
+        "name": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "小麦褐": {
+        "russian_name": "Светло-коричневый",
+        "name": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "棕": {
+        "russian_name": "Коричневый",
+        "name": [
+          "brown"
+        ]
+      },
+      "铁锈": {
+        "russian_name": "Коричневый",
+        "name": [
+          "brown"
+        ]
+      },
+      "咖": {
+        "russian_name": "Кофейный",
+        "name": [
+          "brown"
+        ]
+      },
+      "浅米黄": {
+        "russian_name": "Охровый",
+        "name": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "深棕": {
+        "russian_name": "Тёмно-коричневый",
+        "name": [
+          "brown"
+        ]
+      },
+      "黄棕": {
+        "russian_name": "Жёлто-коричневый",
+        "name": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "卡其": {
+        "russian_name": "Хаки",
+        "name": [
+          "green"
+        ]
+      },
+      "浅卡其": {
+        "russian_name": "Светлый хаки",
+        "name": [
+          "green"
+        ]
+      },
+      "巧克力": {
+        "russian_name": "Коричневый",
+        "name": [
+          "brown"
+        ]
+      },
+      "栗": {
+        "russian_name": "Каштановый",
+        "name": [
+          "brown"
+        ]
+      },
+      "黄褐": {
+        "russian_name": "Коричневый",
+        "name": [
+          "brown"
+        ]
+      },
+      "褐": {
+        "russian_name": "Коричневый",
+        "name": [
+          "brown"
+        ]
+      },
+      "豹纹": {
+        "russian_name": "Леопардовый",
+        "name": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "渐变": {
+        "russian_name": "Разноцветный",
+        "name": [
+          "multicolour"
+        ]
+      },
+      "迷彩": {
+        "russian_name": "Комуфляжный",
+        "name": [
+          "green"
+        ]
+      },
+      "多": {
+        "russian_name": "Разноцветный",
+        "name": [
+          "multicolour"
+        ]
+      },
+      "花": {
+        "russian_name": "Разноцветный",
+        "name": [
+          "multicolour"
+        ]
+      },
+      "综合": {
+        "russian_name": "Разноцветный",
+        "name": [
+          "multicolour"
+        ]
+      }
+    },
+    "material": {
+      "棉": {
+        "russian_name": "Хлопок",
+        "name": [
+          "cotton"
+        ]
+      },
+      "gore-tex": {
+        "russian_name": "Gore-Tex",
+        "name": [
+          "gore-tex"
+        ]
+      },
+      "goretex": {
+        "russian_name": "Gore-Tex",
+        "name": [
+          "gore-tex"
+        ]
+      },
+      "gore tex": {
+        "russian_name": "Gore-Tex",
+        "name": [
+          "gore-tex"
+        ]
+      },
+      "白鹅绒": {
+        "russian_name": "Пух белого гуся",
+        "name": [
+          "goose down"
+        ]
+      },
+      "鹅绒": {
+        "russian_name": "Гусиный пух",
+        "name": [
+          "goose down"
+        ]
+      },
+      "白鸭绒": {
+        "russian_name": "Утиный пух",
+        "name": [
+          "duck down"
+        ]
+      },
+      "聚氯乙烯": {
+        "russian_name": "Поливинилхлорид",
+        "name": [
+          "Polyvinyl chloride"
+        ]
+      },
+      "羊绒": {
+        "russian_name": "Кашемир",
+        "name": [
+          "cashmere"
+        ]
+      },
+      "不锈钢": {
+        "russian_name": "Нержавеющая сталь",
+        "name": [
+          "Stainless steel"
+        ]
+      },
+      "不锈钢304材质": {
+        "russian_name": "Нержавеющая сталь",
+        "name": [
+          "Stainless steel"
+        ]
+      },
+      "羊毛": {
+        "russian_name": "Шерсть",
+        "name": [
+          "wool"
+        ]
+      },
+      "锦纶": {
+        "russian_name": "Нейлон",
+        "name": [
+          "nylon"
+        ]
+      },
+      "尼龙布": {
+        "russian_name": "Нейлон",
+        "name": [
+          "nylon"
+        ]
+      },
+      "粘胶纤维": {
+        "russian_name": "Вискозное волокно",
+        "name": [
+          "Viscose fiber"
+        ]
+      },
+      "黏胶纤维": {
+        "russian_name": "Вискозное волокно",
+        "name": [
+          "Viscose fiber"
+        ]
+      },
+      "人造丝": {
+        "russian_name": "Вискозное волокно",
+        "name": [
+          "Viscose fiber"
+        ]
+      },
+      "涤纶": {
+        "russian_name": "Полиэстер",
+        "name": [
+          "polyester"
+        ]
+      },
+      "再生聚酯纤维": {
+        "russian_name": "Полиэстер",
+        "name": [
+          "polyester"
+        ]
+      },
+      "再生涤纶": {
+        "russian_name": "Полиэстер",
+        "name": [
+          "polyester"
+        ]
+      },
+      "聚酯纤维": {
+        "russian_name": "Полиэстер",
+        "name": [
+          "polyester"
+        ]
+      },
+      "腈纶": {
+        "russian_name": "Акрил",
+        "name": [
+          "acrylic"
+        ]
+      },
+      "亚克力纤维": {
+        "russian_name": "Акрил",
+        "name": [
+          "acrylic"
+        ]
+      },
+      "聚氨酯": {
+        "russian_name": "Полиуретан",
+        "name": [
+          "polyurethane"
+        ]
+      },
+      "皮革": {
+        "russian_name": "Кожа",
+        "name": [
+          "leather"
+        ]
+      },
+      "真皮": {
+        "russian_name": "Натуральная кожа",
+        "name": [
+          "natural_leather"
+        ]
+      },
+      "蛇皮": {
+        "russian_name": "Кожа змеиная",
+        "name": [
+          "snake_leather"
+        ]
+      },
+      "帆布": {
+        "russian_name": "Канвас",
+        "name": [
+          "canvas"
+        ]
+      },
+      "帆布+牛皮革": {
+        "russian_name": "Канвас и кожа",
+        "name": [
+          "canvas and leather"
+        ]
+      },
+      "牛皮+人造革": {
+        "russian_name": "Воловья и искусственная кожа",
+        "name": [
+          "leather"
+        ]
+      },
+      "牛皮+人造革+织物": {
+        "russian_name": "Воловья и искусственная кожа, ткань",
+        "name": [
+          "leather and fabric"
+        ]
+      },
+      "织物": {
+        "russian_name": "Ткань",
+        "name": [
+          "fabric"
+        ]
+      },
+      "棉布": {
+        "russian_name": "Ткань",
+        "name": [
+          "fabric"
+        ]
+      },
+      "EVA": {
+        "russian_name": "EVA",
+        "name": [
+          "eva"
+        ]
+      },
+      "牛皮": {
+        "russian_name": "Кожа",
+        "name": [
+          "leather"
+        ]
+      },
+      "真皮底": {
+        "russian_name": "Кожа",
+        "name": [
+          "leather"
+        ]
+      },
+      "牛仔布": {
+        "russian_name": "Деним",
+        "name": [
+          "denim"
+        ]
+      },
+      "橡胶底": {
+        "russian_name": "Резина",
+        "name": [
+          "rubber"
+        ]
+      },
+      "尼龙": {
+        "russian_name": "Нейлон",
+        "name": [
+          "nylon"
+        ]
+      },
+      "聚酰胺": {
+        "russian_name": "Полиамид",
+        "name": [
+          "polyamide"
+        ]
+      },
+      "羽绒": {
+        "russian_name": "Пух",
+        "name": [
+          "down"
+        ]
+      },
+      "羽毛": {
+        "russian_name": "Пух",
+        "name": [
+          "feather"
+        ]
+      },
+      "塑料": {
+        "russian_name": "Пластик",
+        "name": [
+          "plastic"
+        ]
+      },
+      "羊皮": {
+        "russian_name": "Овечья кожа",
+        "name": [
+          "sheepskin"
+        ]
+      },
+      "头层牛皮": {
+        "russian_name": "Воловья кожа",
+        "name": [
+          "cowhide"
+        ]
+      },
+      "其他": {
+        "russian_name": "Другой",
+        "name": [
+          "other_material"
+        ]
+      },
+      "其它": {
+        "russian_name": "Другой",
+        "name": [
+          "other_material"
+        ]
+      },
+      "合成革": {
+        "russian_name": "Синтетическая кожа",
+        "name": [
+          "synthetic_leather"
+        ]
+      },
+      "TPU": {
+        "russian_name": "TPU",
+        "name": [
+          "tpu"
+        ]
+      },
+      "PU": {
+        "russian_name": "PU",
+        "name": [
+          "pu"
+        ]
+      },
+      "漆皮": {
+        "russian_name": "Лакированная кожа",
+        "name": [
+          "patent_leather"
+        ]
+      },
+      "小牛皮": {
+        "russian_name": "Телячья кожа",
+        "name": [
+          "leather"
+        ]
+      },
+      "绸缎": {
+        "russian_name": "Атлас",
+        "name": [
+          "satin"
+        ]
+      },
+      "橡胶": {
+        "russian_name": "Резина",
+        "name": [
+          "rubber"
+        ]
+      },
+      "复合底": {
+        "russian_name": "Смешанный",
+        "name": [
+          "composite_bottom"
+        ]
+      },
+      "皮革底": {
+        "russian_name": "Кожа",
+        "name": [
+          "leather_bottom"
+        ]
+      },
+      "猪皮": {
+        "russian_name": "Кожа",
+        "name": [
+          "leather"
+        ]
+      },
+      "925银": {
+        "russian_name": "Серебро 925",
+        "name": [
+          "925_silver"
+        ]
+      },
+      "鸭绒": {
+        "russian_name": "Утиный пух",
+        "name": [
+          "duck_down"
+        ]
+      },
+      "蚕丝": {
+        "russian_name": "Шёлк",
+        "name": [
+          "silk"
+        ]
+      },
+      "氨纶": {
+        "russian_name": "Спандекс",
+        "name": [
+          "spandex"
+        ]
+      },
+      "鳄鱼皮": {
+        "russian_name": "Кожа крокодила",
+        "name": [
+          "crocodile_skin"
+        ]
+      },
+      "PVC": {
+        "russian_name": "PVC",
+        "name": [
+          "pvc"
+        ]
+      },
+      "泡沫底": {
+        "name": [
+          "foam"
+        ],
+        "russian_name": "Пена"
+      },
+      "颗粒底": {
+        "name": [
+          "particle"
+        ],
+        "russian_name": "Частичная"
+      },
+      "塑胶底": {
+        "name": [
+          "plastic_bottom"
+        ],
+        "russian_name": "Пластик"
+      },
+      "绒面革": {
+        "name": [
+          "suede"
+        ],
+        "russian_name": "Замша"
+      },
+      "二层绒面皮": {
+        "name": [
+          "suede"
+        ],
+        "russian_name": "Замша"
+      },
+      "绒面": {
+        "name": [
+          "suede"
+        ],
+        "russian_name": "Замша"
+      },
+      "PHYLON": {
+        "name": [
+          "PHYLON"
+        ],
+        "russian_name": "Филон"
+      },
+      "牛津底": {
+        "name": [
+          "fat"
+        ],
+        "russian_name": "Толстая подошва"
+      },
+      "木底": {
+        "name": [
+          "wood"
+        ],
+        "russian_name": "Деревянная"
+      },
+      "人造革": {
+        "name": [
+          "leather"
+        ],
+        "russian_name": "Искусственная кожа"
+      },
+      "反毛皮": {
+        "name": [
+          "fur"
+        ],
+        "russian_name": "Анти-мех"
+      },
+      "聚脂钎维": {
+        "russian_name": "Полиэстер",
+        "name": [
+          "polyester"
+        ]
+      },
+      "丙烯酸": {
+        "russian_name": "Акрил",
+        "name": [
+          "acrylic"
+        ]
+      },
+      "pu+网布": {
+        "russian_name": "PU",
+        "name": [
+          "pu"
+        ]
+      },
+      "网布": {
+        "name": [
+          "mesh"
+        ],
+        "russian_name": "Ткань"
+      },
+      "布": {
+        "name": [
+          "mesh"
+        ],
+        "russian_name": "Ткань"
+      },
+      "翻毛皮": {
+        "name": [
+          "Flip_Fur"
+        ],
+        "russian_name": "Мех"
+      },
+      "二层牛皮": {
+        "name": [
+          "cowhide"
+        ],
+        "russian_name": "Воловья кожа"
+      }
+    }
+  },
+  "otherParams": {
+    "upper_height": {
+      "低帮": "low",
+      "高帮": "high",
+      "中帮": "middle"
+    },
+    "heel_type": {
+      "平跟": "flat",
+      "厚底": "thick_sole",
+      "细跟": "stiletto",
+      "粗跟": "thick_heel",
+      "平底": "flat_heel",
+      "坡跟": "wedge",
+      "高跟": "medium_high_heel",
+      "方跟": "square_heel",
+      "异形跟": "special_heels",
+      "内增高": "height_increasing_sole",
+      "锥形跟": "cone_heel",
+      "酒杯跟": "wine_glass_heel"
+    },
+    "boots_height": {
+      "短筒": "short",
+      "及踝": "short",
+      "高筒": "high",
+      "短中筒": "middle",
+      "中筒": "middle"
+    },
+    "sleeve_length": {
+      "无袖": "no_sleeve",
+      "短袖": "short",
+      "长袖": "long",
+      "七分袖": "long",
+      "五分袖": "middle"
+    },
+    "collar_type": {
+      "圆领": "round",
+      "crewneck": "round",
+      "crew neck": "round",
+      "连帽": "hooded",
+      "hood": "hooded",
+      "兜帽": "hooded",
+      "翻领": "turn-down_collar",
+      "立领": "stand_collar",
+      "POLO领": "polo_collar",
+      "V领": "v_collar",
+      "其他": "other_collar",
+      "棒球领": "baseball_collar",
+      "尖领": "pointed_collar",
+      "西装领": "suit",
+      "方领": "square",
+      "高领": "high_collar",
+      "古巴领": "cuban_collar",
+      "可脱卸帽": "detachable_hood",
+      "无领": "collarless",
+      "半高领": "half_high_collar",
+      "一字领": "collarless"
+    },
+    "closure_type": {
+      "拉链": "zipper",
+      "zip": "zipper",
+      "单排扣": "buttons",
+      "button": "buttons",
+      "纽扣": "buttons",
+      "双排扣": "buttons",
+      "一粒扣": "buttons",
+      "暗扣": "buttons",
+      "套头": "pullover",
+      "系带": "belt"
+    }
+  }
+}

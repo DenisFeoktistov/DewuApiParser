@@ -1,0 +1,956 @@
+{
+    "brands": [
+        "New Balance",
+        "Stone Island"
+    ],
+    "is_collab": true,
+    "collab_names": [
+        "New Balance x Stone Island"
+    ],
+    "lines": [
+        [
+            "New Balance",
+            "New Balance 574"
+        ]
+    ],
+    "categories": [
+        "Низкие кроссовки",
+        "Все кроссовки"
+    ],
+    "brandName": "New Balance x Stone Island",
+    "model": "574 NB",
+    "colorway": "",
+    "gender": [
+        "M",
+        "F"
+    ],
+    "baseGenders": [
+        "M",
+        "F"
+    ],
+    "extraGenders": [],
+    "custom": false,
+    "manufacturer_sku": "U574LGIL",
+    "other_manufacturer_skus": [],
+    "date": "12.06.2024",
+    "approximate_date": "12.06.2024",
+    "retailPrice": {
+        "currency": "CNY",
+        "price": 1099
+    },
+    "images": [
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240621/ed66a0ea3819477182e95007aac197dc.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240621/2a5cf4432ccb40c3948a27e14812f966.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240621/9cee89ca24984fbb854035ca9a70a62e.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240621/b5a78969fa8b4260a28a0d172e49f33c.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20240621/7f8a2e54e7944628b4bfe1ed6974ffed.jpg"
+        }
+    ],
+    "size_tables": {
+        "main_regular_table": {
+            "rows_order": [
+                "EU",
+                "RU",
+                "US",
+                "UK",
+                "CM/JP",
+                "US-Women's"
+            ],
+            "values": {
+                "EU": [
+                    "36",
+                    "37",
+                    "37.5",
+                    "38",
+                    "38.5",
+                    "39.5",
+                    "40",
+                    "40.5",
+                    "41.5",
+                    "42",
+                    "42.5",
+                    "43",
+                    "44",
+                    "44.5",
+                    "45",
+                    "45.5",
+                    "46.5",
+                    "47",
+                    "47.5",
+                    "49",
+                    "50",
+                    "51",
+                    "52",
+                    "53",
+                    "54",
+                    "55"
+                ],
+                "RU": [
+                    "35",
+                    "36",
+                    "36.5",
+                    "37",
+                    "37.5",
+                    "38.5",
+                    "39",
+                    "39.5",
+                    "40.5",
+                    "41",
+                    "41.5",
+                    "42",
+                    "43",
+                    "43.5",
+                    "44",
+                    "44.5",
+                    "45.5",
+                    "46",
+                    "46.5",
+                    "48",
+                    "49",
+                    "50",
+                    "51",
+                    "52",
+                    "53",
+                    "54"
+                ],
+                "US": [
+                    "4",
+                    "4.5",
+                    "5",
+                    "5.5",
+                    "6",
+                    "6.5",
+                    "7",
+                    "7.5",
+                    "8",
+                    "8.5",
+                    "9",
+                    "9.5",
+                    "10",
+                    "10.5",
+                    "11",
+                    "11.5",
+                    "12",
+                    "12.5",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "UK": [
+                    "3.5",
+                    "4",
+                    "4.5",
+                    "5",
+                    "5.5",
+                    "6",
+                    "6.5",
+                    "7",
+                    "7.5",
+                    "8",
+                    "8.5",
+                    "9",
+                    "9.5",
+                    "10",
+                    "10.5",
+                    "11",
+                    "11.5",
+                    "12",
+                    "12.5",
+                    "13.5",
+                    "14.5",
+                    "15.5",
+                    "16.5",
+                    "17.5",
+                    "18.5",
+                    "19.5"
+                ],
+                "CM/JP": [
+                    "22",
+                    "22.5",
+                    "23",
+                    "23.5",
+                    "24",
+                    "24.5",
+                    "25",
+                    "25.5",
+                    "26",
+                    "26.5",
+                    "27",
+                    "27.5",
+                    "28",
+                    "28.5",
+                    "29",
+                    "29.5",
+                    "30",
+                    "30.5",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36",
+                    "37",
+                    "38"
+                ],
+                "US-Women's": [
+                    "5.5",
+                    "6",
+                    "6.5",
+                    "7",
+                    "7.5",
+                    "8",
+                    "8.5",
+                    "9",
+                    "9.5",
+                    "10",
+                    "10.5",
+                    "11",
+                    "11.5",
+                    "12",
+                    "12.5",
+                    "13",
+                    "13.5",
+                    "14",
+                    "15",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "table_name": "Таблица New Balance",
+            "table_title": "Мужская обувь New Balance",
+            "table_description": "Обратите внимание, таблица представлена брендом New Balance, для других брендов рекомендуем пользоваться своей размерной сеткой и быть бдительным при сравнении размеров разных брендов. Вы всегда можете обратиться в службу поддержки, и мы обязательно поможем подобрать вам подходящий размер!"
+        },
+        "main_measurements_table": {},
+        "default_table": {},
+        "tables_recommendations": {}
+    },
+    "parameters_to_show_in_product": {
+        "parameters": {
+            "Основные цвета": "Зеленый",
+            "Цена на ритейле": "14300₽"
+        },
+        "parameters_order": [
+            "Основные цвета",
+            "Материалы",
+            "Цена на ритейле"
+        ]
+    },
+    "parameters_to_use_in_filters": {
+        "colors": [
+            "green"
+        ],
+        "material": [],
+        "upper_height": [
+            "low"
+        ],
+        "heel_type": [],
+        "boots_height": [],
+        "length": [],
+        "sleeve_length": [],
+        "collar_type": [],
+        "closure_type": []
+    },
+    "units": [
+        {
+            "view_name": "36 EU",
+            "unitId": 1,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "36",
+                    "36.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "37 EU",
+            "unitId": 2,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "37",
+                    "36.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "37.5 EU",
+            "unitId": 3,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "37.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "38 EU",
+            "unitId": 4,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "38"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "38.5 EU",
+            "unitId": 5,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "38.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "39.5 EU",
+            "unitId": 6,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "39.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "40 EU",
+            "unitId": 7,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "40"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "40.5 EU",
+            "unitId": 8,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "40.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "41.5 EU",
+            "unitId": 9,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "41.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "42 EU",
+            "unitId": 10,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "42"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "42.5 EU",
+            "unitId": 11,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "42.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "43 EU",
+            "unitId": 12,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "43",
+                    "43.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "44 EU",
+            "unitId": 13,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "44",
+                    "43.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "44.5 EU",
+            "unitId": 14,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "44.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "45 EU",
+            "unitId": 15,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "45"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "45.5 EU",
+            "unitId": 16,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "45.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "46.5 EU",
+            "unitId": 17,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "46.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "47 EU",
+            "unitId": 18,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "47"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "47.5 EU",
+            "unitId": 19,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "47.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "49 EU",
+            "unitId": 20,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "49",
+                    "48",
+                    "48.5",
+                    "49.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "50 EU",
+            "unitId": 21,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "50",
+                    "49.5",
+                    "50.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "51 EU",
+            "unitId": 22,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "51",
+                    "50.5",
+                    "51.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "52 EU",
+            "unitId": 23,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "52",
+                    "51.5",
+                    "52.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "53 EU",
+            "unitId": 24,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "Shoes_Adults",
+                "table_row_name": "Европейский(EU)",
+                "sizes": [
+                    "53",
+                    "52.5"
+                ]
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "54 EU",
+            "unitId": 25,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        },
+        {
+            "view_name": "55 EU",
+            "unitId": 26,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [],
+            "weight": 1.6,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        }
+    ],
+    "minPrice": {
+        "currency": "CNY",
+        "price": 959.0
+    },
+    "likesCount": 5401,
+    "spuId": 12138264,
+    "hasConfigurationsWithDifferentImages": false
+}

@@ -1,0 +1,152 @@
+{
+    "brands": [
+        "HERMES"
+    ],
+    "is_collab": false,
+    "collab_names": [],
+    "lines": [],
+    "categories": [
+        "Сумки с ручками"
+    ],
+    "brandName": "HERMES",
+    "model": "",
+    "colorway": "Сумка Birkin 25",
+    "gender": [
+        "F"
+    ],
+    "baseGenders": [
+        "F"
+    ],
+    "extraGenders": [],
+    "custom": false,
+    "manufacturer_sku": "H056388CK01",
+    "other_manufacturer_skus": [],
+    "date": "16.10.2021",
+    "approximate_date": "Осень/зима 2021",
+    "retailPrice": {
+        "currency": "CNY",
+        "price": 1600000
+    },
+    "images": [
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230412/97ecf8b225684e8c82a837533b435fca.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230412/63dd1966e1194ed7952d7eec711a3736.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230412/3dec48e216af440d81230f9292f259ad.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230412/0f5debfb5aa540f8a83d6728814969f7.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230412/4571727881ed476191f9021ac6e59342.jpg"
+        },
+        {
+            "imageId": 0,
+            "unitsIds": [
+                1
+            ],
+            "url": "https://cdn.poizon.com/pro-img/origin-img/20230412/2f8efc06f1f540acb392695ff948660f.jpg"
+        }
+    ],
+    "size_tables": {
+        "main_regular_table": {},
+        "main_measurements_table": {},
+        "default_table": {},
+        "tables_recommendations": {}
+    },
+    "parameters_to_show_in_product": {
+        "parameters": {
+            "Основные цвета": "Серебряный, Нейтральный, Золотой",
+            "Материалы": "Кожа крокодила",
+            "Цена на ритейле": "20800000₽"
+        },
+        "parameters_order": [
+            "Основные цвета",
+            "Материалы",
+            "Цена на ритейле"
+        ]
+    },
+    "parameters_to_use_in_filters": {
+        "colors": [
+            "neutrals",
+            "silver",
+            "gold",
+            "white"
+        ],
+        "material": [
+            "crocodile_skin"
+        ],
+        "upper_height": [],
+        "heel_type": [],
+        "boots_height": [],
+        "length": [],
+        "sleeve_length": [],
+        "collar_type": [],
+        "closure_type": []
+    },
+    "units": [
+        {
+            "view_name": "Один размер",
+            "unitId": 1,
+            "imagesIds": [
+                0
+            ],
+            "showImage": false,
+            "filter_size_table_info": {
+                "table_name": "",
+                "table_row_name": "",
+                "sizes": []
+            },
+            "offers": [
+                {
+                    "price": 1380009.0,
+                    "currency": "CNY",
+                    "days_min_to_international_warehouse": 0,
+                    "days_max_to_international_warehouse": 0,
+                    "delivery_type": "standard",
+                    "platform_info": {
+                        "poizon": {
+                            "source": "notFullAPI",
+                            "sku": 608605160,
+                            "poizon_abroad": false
+                        }
+                    }
+                }
+            ],
+            "weight": 1,
+            "height": 0,
+            "width": 0,
+            "length": 0
+        }
+    ],
+    "minPrice": {
+        "currency": "CNY",
+        "price": 0
+    },
+    "likesCount": 17253,
+    "spuId": 2346377,
+    "hasConfigurationsWithDifferentImages": false
+}

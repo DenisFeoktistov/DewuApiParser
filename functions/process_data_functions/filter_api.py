@@ -5,8 +5,9 @@ from constants import TITLING
 
 
 def filter_api(data):
-    if not _.get(data, "data.item", "-1") != "-1":
-        return False
+    # Теперь если даже нет поля item (которое ранее отвечало за наличие), все равно добавляем такой товар.
+    # if not _.get(data, "data.item", "-1") != "-1":
+    #     return False
 
     for brandId in _.get(data, "data.detail.relationBrandIds", list()):
         if str(brandId) in TITLING:
