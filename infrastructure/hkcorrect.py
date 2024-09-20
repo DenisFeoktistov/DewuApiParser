@@ -356,7 +356,6 @@ def hkCorrect(hkProductInfo, poizonApiProductInfo, apiPreprocessedData):
 
         hkProductInfo["hasConfigurationsWithDifferentImages"] = False
 
-        # TODO: platformsInfo poizonWebParser
         # Пока что сделано так, что товары, у которых был hasConfigurationsWithDifferentImages = True, больше не будут обновляться. (то есть spuId в базе уже будет, а вот в привязанных платформах работающих не будет, таким образом, товар не обновится)
         hkProductInfo["platformsInfo"] = {
             "poizonNotFullApi": {
@@ -382,7 +381,6 @@ def hkCorrect(hkProductInfo, poizonApiProductInfo, apiPreprocessedData):
         }
 
     else:
-        # TODO: Здесь еще раз посмотреть на формат текущих данных
         # Если с ГК у товара нет никаких оферов, то заменяем на формат из АПИ
         if not any(unit["offers"] for unit in hkProductInfo["units"]):
             hkProductInfo["images"] = poizonApiProductInfo["images"]
@@ -470,7 +468,6 @@ def hkCorrect(hkProductInfo, poizonApiProductInfo, apiPreprocessedData):
             }
             hkProductInfo["hasConfigurationsWithDifferentImages"] = False
 
-        # TODO: platformsInfo poizonWebParser
         # Пока что сделано так, что товары, у которых был hasConfigurationsWithDifferentImages = True, больше не будут обновляться. (то есть spuId в базе уже будет, а вот в привязанных платформах работающих не будет, таким образом, товар не обновится)
         hkProductInfo["platformsInfo"] = {
             "poizonHK": {
