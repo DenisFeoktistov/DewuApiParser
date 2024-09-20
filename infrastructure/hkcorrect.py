@@ -6,6 +6,8 @@ from constants.process_constants import SIZE_TABLES_DEFAULT_FILTERS, CATEGORIES_
 import pydash as _
 
 
+# Функция должна взять товар из нашей БД и изменить данные (исправить ошибки) + подправить формат.
+# Идем по каждому товару из БД Sellout -> Берем spuId товара -> получаем apiPreprocessedData(вообще не тронутая дата из АПИ) + обработанную через функцию pureApiParser.main (получаем poizonApiProductInfo) -> запускаем эту функцию и на выходе получаем данные в таком же правильном формате для бекенда, но уже с исправленными данными + новыми полями. Перезаполняем инфу об этом товаре в БД.
 def hkCorrect(hkProductInfo, poizonApiProductInfo, apiPreprocessedData):
     # Обновляем всю информацию, основанную на АПИ
     for key in ["brands", "is_collab", "collab_names", "lines", "categories", "brandName", "model", "colorway",
@@ -1256,20 +1258,22 @@ def test():
                         "37.5"
                     ]
                 },
-                "offers": [{
-                    "price": 1099999.0,
-                    "currency": "CNY",
-                    "days_min_to_international_warehouse": 0,
-                    "days_max_to_international_warehouse": 0,
-                    "delivery_type": "standard",
-                    "platform_info": {
-                        "poizon": {
-                            "source": "notFullAPI",
-                            "sku": 610913234,
-                            "poizon_abroad": False
+                "offers": [
+                    {
+                        "price": 1099999.0,
+                        "currency": "CNY",
+                        "days_min_to_international_warehouse": 0,
+                        "days_max_to_international_warehouse": 0,
+                        "delivery_type": "standard",
+                        "platform_info": {
+                            "poizonHK": {
+                                "source": "notFullAPI",
+                                "sku": 610913234,
+                                "poizon_abroad": False
+                            }
                         }
                     }
-                }],
+                ],
                 "weight": 1.8,
                 "height": 0,
                 "width": 0,
